@@ -1,0 +1,1200 @@
+__label__EXIST xin hoi trong anh co chua chuot khong
+__label__EXIST cho toi hoi tren ban co oto do choi nao khong
+__label__COUNT sach trong canh co bao nhieu cai
+__label__EXIST cho minh hoi co coc uong nuoc xuat hien trong khung hinh khong
+__label__LOCATION cho minh hoi binh nuoc duoc dat o ben trai o giua hay ben phai tren ban
+__label__EXIST trong anh co chua chai nhua khong
+__label__OUT_OF_SCOPE ban oi ban thich mon do nao nhat a
+__label__EXIST trong anh co hien dien hop khong
+__label__COUNT ban oi co duoc bao nhieu o to do choi tren mat ban
+__label__LIST tren ban co tong cong may loai vat the
+__label__COUNT cho minh hoi co tat ca may thung giay trong hinh
+__label__COUNT xin hoi co tong cong bao nhieu tach xuat hien trong hinh
+__label__EXIST co smartphone nao tren ban khong
+__label__LOCATION smartphone duoc dat o ben trai o giua hay ben phai trong khung hinh
+__label__EXIST co chai nhua nao tren mat ban khong
+__label__EXIST xin hoi co dien thoai di dong tren ban khong vay
+__label__LIST cho toi hoi co bao nhieu kieu do dung khong trung nhau
+__label__LIST tinh so kieu vat the khac nhau co trong buc anh
+__label__EXIST co smartphone nao trong hinh khong
+__label__EXIST cho minh hoi hay cho biet trong khung hinh co cuon sach hay khong
+__label__LIST cho minh hoi co bao nhieu chung loai do vat rieng biet
+__label__LOCATION cho toi hoi theo chieu ngang coc nam o dau trong canh
+__label__LIST tren mat ban co bao nhieu chung loai doi tuong khac nhau
+__label__EXIST ban co thay cai hop khong
+__label__OUT_OF_SCOPE xin hoi mot cong mot bang may
+__label__COUNT hay dem xem co may dien thoai di dong trong hinh anh
+__label__EXIST trong khung hinh co dien thoai di dong hay khong
+__label__COUNT xin hoi trong hinh co tong cong may o to do choi
+__label__EXIST cho minh hoi trong khung hinh co it nhat mot cuon sach khong
+__label__LIST hay liet ke so nhom vat the khac nhau trong anh
+__label__LIST co bao nhieu kieu do dung khac nhau trong hinh anh
+__label__LOCATION oto do choi xuat hien o vung nao cua canh
+__label__COUNT xin hoi dem xem trong canh co bao nhieu xe oto do choi
+__label__EXIST sach co duoc dat trong canh khong
+__label__OUT_OF_SCOPE ban oi bay gio la may gio a
+__label__OUT_OF_SCOPE binh hoa nam o dau trong buc anh
+__label__EXIST cho minh hoi trong canh nay co quyen sach khong
+__label__OUT_OF_SCOPE co laptop trong anh khong
+__label__LOCATION cho minh hoi theo chieu ngang chuot may tinh nam o dau trong buc anh
+__label__LOCATION chai nuoc nam o phan ben trai phan giua hay phan ben phai
+__label__LIST co may chung loai do vat khac nhau trong anh
+__label__LIST trong anh co bao nhieu loai doi tuong khac nhau
+__label__LOCATION cho minh hoi theo chieu ngang coc nam o dau trong anh
+__label__OUT_OF_SCOPE co bao nhieu den ban trong hinh anh
+__label__EXIST ban co nhin thay thung giay trong anh khong
+__label__COUNT cho toi hoi ban co the dem so thung giay trong anh khong
+__label__COUNT xin hoi co bao nhieu chiec xe oto do choi trong hinh
+__label__OUT_OF_SCOPE xin hoi canh nay o trong nha hay ngoai troi vay
+__label__COUNT cho minh hoi bao nhieu chai nhua dang co mat trong hinh
+__label__EXIST o to do choi co duoc dat trong anh khong
+__label__COUNT trong buc anh nay co bao nhieu quyen sach
+__label__OUT_OF_SCOPE ban cho minh biet lam sao de nau pho the
+__label__EXIST trong hinh anh co chua cuon sach khong
+__label__LIST hay dem xem co bao nhieu loai do vat trong canh
+__label__LOCATION ban oi hay cho biet vi tri ngang cua chai nhua trong khung hinh
+__label__LOCATION phan nao cua canh co tach trai giua hay phai
+__label__LOCATION o to do choi o giua khung hinh hay o hai ben
+__label__OUT_OF_SCOPE cho toi hoi trong buc anh co thay doi giay khong
+__label__EXIST cho toi hoi xe oto do choi co xuat hien trong anh khong
+__label__LOCATION xac dinh xem chai nhua o ben trai giua hay phai cua buc anh
+__label__LOCATION xin hoi coc o giua buc anh hay o hai ben
+__label__OUT_OF_SCOPE ban cho minh biet coc lam bang su hay thuy tinh a
+__label__LOCATION hop giay o ben trai o giua hay ben phai cua hinh
+__label__EXIST xin hoi ban co thay chuot may tinh trong hinh khong
+__label__LIST ban dem duoc bao nhieu nhom mon do khac nhau trong hinh anh
+__label__LOCATION hay xac dinh cai hop nam ben trai o giua hay ben phai anh
+__label__COUNT xin hoi dem so chuot trong hinh
+__label__OUT_OF_SCOPE cho toi hoi co may tinh bang trong anh khong
+__label__EXIST ban oi co smartphone nao trong hinh khong
+__label__OUT_OF_SCOPE ban oi ai la chu nhan cua chiec ban nay the
+__label__OUT_OF_SCOPE mat ban duoc lam bang go hay nhua ban
+__label__LOCATION xin hoi sach o giua hinh anh hay o hai ben
+__label__COUNT ban oi trong anh co bao nhieu smartphone tat ca
+__label__EXIST trong hinh co coc uong nuoc nao khong
+__label__LOCATION ban oi trong hinh chai nuoc o ben nao
+__label__EXIST trong khung hinh co hien dien cuon sach khong
+__label__COUNT cho minh hoi coc tren ban co bao nhieu cai
+__label__COUNT xin hoi co duoc bao nhieu smartphone
+__label__COUNT tren mat ban co bao nhieu con chuot may tinh
+__label__LOCATION chuot may tinh nam o phan ben trai phan giua hay phan ben phai
+__label__EXIST cho toi hoi trong hinh co xuat hien oto do choi khong
+__label__LIST tinh so kieu do dung khac nhau co trong khung hinh
+__label__OUT_OF_SCOPE mau sac chu dao cua buc anh la gi the
+__label__OUT_OF_SCOPE ban oi con meo nam o dau trong canh
+__label__LOCATION hay cho biet chuot o vi tri trai giua hay phai
+__label__LOCATION hay cho biet vi tri ngang cua sach trong hinh anh
+__label__LOCATION cho minh hoi sach xuat hien o vung nao cua buc anh
+__label__LIST xin hoi so luong nhom doi tuong trong hinh anh la bao nhieu
+__label__LOCATION hay cho biet chai nuoc o vi tri trai giua hay phai
+__label__EXIST co dien thoai di dong xuat hien tren mat ban khong
+__label__LOCATION hay cho biet vi tri ngang cua cai hop trong canh
+__label__COUNT hay dem so sach xuat hien trong hinh
+__label__COUNT co bao nhieu chiec hop trong hinh
+__label__OUT_OF_SCOPE ban co biet bay gio la may gio a
+__label__COUNT co bao nhieu chiec tach trong hinh
+__label__OUT_OF_SCOPE ban co biet ban ten la gi nhi
+__label__EXIST ban co phat hien sach trong hinh anh khong
+__label__OUT_OF_SCOPE cho toi hoi dong xu nam o dau trong anh
+__label__LIST so kieu do vat khac nhau trong khung hinh la bao nhieu
+__label__LIST co may kieu do vat khac nhau trong khung hinh
+__label__COUNT cho minh hoi trong anh co tat ca bao nhieu ly
+__label__COUNT co duoc bao nhieu coc trong khung hinh
+__label__OUT_OF_SCOPE ban cho minh biet ban co the ke mot cau chuyen cuoi khong vay
+__label__OUT_OF_SCOPE co bao nhieu qua tao tren mat ban
+__label__LOCATION cho minh hoi coc xuat hien o vung nao cua buc anh
+__label__LOCATION ban oi cuon sach o giua khung hinh hay o hai ben
+__label__LOCATION cho minh hoi phan nao cua hinh co con chuot may tinh trai giua hay phai
+__label__OUT_OF_SCOPE ban cho minh biet ngoai troi co dang mua khong nhi
+__label__OUT_OF_SCOPE xin hoi phong nay la phong khach hay phong ngu a
+__label__LOCATION phan nao cua khung hinh co binh nuoc trai giua hay phai
+__label__OUT_OF_SCOPE cho toi hoi hop nay dung de dung gi the
+__label__EXIST xin hoi trong anh co chiec coc nao khong
+__label__COUNT trong buc anh co tong cong may ly
+__label__EXIST ban co phat hien hop trong khung hinh khong
+__label__COUNT hay dem va cho biet so o to do choi trong anh
+__label__LOCATION trong hinh anh chuot may tinh o ben nao
+__label__LOCATION xin hoi quyen sach o giua hinh anh hay o hai ben
+__label__LOCATION coc o phia ben nao cua khung hinh
+__label__COUNT cho minh hoi co bao nhieu chiec ly trong hinh
+__label__COUNT cho toi hoi dem so chai nhua trong khung hinh
+__label__LOCATION ban oi quyen sach nam ve phia nao trong hinh anh
+__label__LOCATION cho toi hoi cho biet dien thoai di dong o ben trai giua hay ben phai
+__label__OUT_OF_SCOPE cay but nam o dau trong khung hinh
+__label__COUNT cho minh hoi hay dem so cuon sach xuat hien trong hinh
+__label__LOCATION cho minh hoi chai nhua xuat hien o phia nao trai giua hay phai
+__label__COUNT xin hoi trong hinh co bao nhieu ly
+__label__EXIST trong khung hinh co hien dien chuot khong
+__label__LOCATION cho minh hoi chuot nam gan mep trai o giua hay gan mep phai
+__label__COUNT dem giup minh so binh nuoc trong hinh anh
+__label__OUT_OF_SCOPE cho toi hoi co bao nhieu qua bong trong canh
+__label__LIST ban oi so luong loai vat the trong canh la bao nhieu
+__label__OUT_OF_SCOPE can phong nay o tang may a
+__label__OUT_OF_SCOPE co cai ghe trong anh khong
+__label__COUNT trong anh co tat ca bao nhieu chuot
+__label__EXIST co chuot nao trong anh khong
+__label__EXIST co nhin thay chai nao trong hinh anh khong
+__label__LOCATION hay chi ra chai nhua nam ben trai chinh giua hay ben phai
+__label__LIST trong anh co may loai mon do khac nhau
+__label__LOCATION cho toi hoi con chuot may tinh xuat hien o vung nao cua buc anh
+__label__COUNT xe do choi trong buc anh nay co bao nhieu cai
+__label__LOCATION cho toi hoi hay cho biet vi tri ngang cua thung giay trong hinh
+__label__LOCATION hay xac dinh sach nam ben trai o giua hay ben phai anh
+__label__LIST xin hoi tinh so lop vat the khac nhau co trong buc anh
+__label__LIST ban dem duoc bao nhieu kieu doi tuong khac nhau
+__label__OUT_OF_SCOPE ban oi ban co the dich cau nay sang tieng anh khong the
+__label__OUT_OF_SCOPE ban oi co bao nhieu cai dia trong buc anh nay
+__label__EXIST ban oi co oto do choi nao trong canh khong
+__label__OUT_OF_SCOPE ban oi do sang cua anh co du khong
+__label__EXIST cho minh hoi co hop nao trong buc anh nay khong
+__label__OUT_OF_SCOPE xin hoi chiec hop nay rong hay day do
+__label__LOCATION cho toi hoi chuot may tinh o phia ben nao cua khung hinh
+__label__COUNT trong hinh co bao nhieu chuot may tinh
+__label__LOCATION cho toi hoi vi tri sach so voi khung hinh la trai giua hay phai
+__label__OUT_OF_SCOPE ban oi ngay mai co mua khong the
+__label__OUT_OF_SCOPE chai nuoc nay con han su dung khong ban
+__label__LIST cho minh hoi co bao nhieu lop do vat duoc nhan dien tren ban
+__label__EXIST cho toi hoi xe oto do choi co duoc dat tren ban khong
+__label__LOCATION ban oi dien thoai o giua anh hay o hai ben
+__label__LOCATION chai nuoc nam gan mep trai o giua hay gan mep phai
+__label__LIST trong hinh co tong cong may lop doi tuong
+__label__EXIST trong canh co cai hop hay khong
+__label__OUT_OF_SCOPE cho minh hoi dien thoai co dang bat man hinh khong ban
+__label__LOCATION coc xuat hien o vung nao cua buc anh
+__label__LIST xin hoi tinh so loai do vat khac nhau co trong anh
+__label__COUNT cho minh hoi dem so oto do choi tren mat ban
+__label__LIST ban dem duoc bao nhieu lop mon do khac nhau tren mat ban
+__label__OUT_OF_SCOPE ban cho minh biet nuoc trong chai co uong duoc khong nhi
+__label__OUT_OF_SCOPE ban oi co cay but trong anh khong
+__label__LOCATION cai hop o phia ben nao cua khung hinh
+__label__LOCATION cho minh hoi o to do choi duoc dat o ben trai o giua hay ben phai
+__label__LOCATION ban oi chai nhua o vi tri nao theo chieu ngang cua hinh
+__label__OUT_OF_SCOPE trong anh co thay banh mi khong
+__label__LIST xin hoi trong anh xuat hien bao nhieu kieu do dung
+__label__LOCATION trong khung hinh ly nam o phan nao trai giua hay phai
+__label__LOCATION xin hoi chai nam ben trai hay ben phai hay o giua buc anh
+__label__LIST cho toi hoi hay cho biet co bao nhieu kieu do vat trong hinh
+__label__LIST hay cho biet co bao nhieu nhom mon do
+__label__EXIST cho toi hoi trong hinh anh co smartphone hay khong
+__label__EXIST cho toi hoi lieu co xe do choi khong
+__label__LIST xin cho biet so nhom vat the tren mat ban
+__label__EXIST cho toi hoi co hop giay trong anh khong vay
+__label__EXIST ban oi co nhin thay sach nao trong hinh anh khong
+__label__COUNT xin dem so dien thoai di dong trong anh
+__label__EXIST trong anh co xuat hien cuon sach khong
+__label__OUT_OF_SCOPE coc lam bang su hay thuy tinh a
+__label__COUNT hay dem so chuot xuat hien trong khung hinh
+__label__EXIST cho toi hoi co ton tai sach trong khung hinh khong
+__label__OUT_OF_SCOPE cai dia nam o dau trong anh
+__label__LOCATION theo chieu ngang ly nam o dau trong buc anh
+__label__OUT_OF_SCOPE trong hinh anh co thay cai dia khong
+__label__OUT_OF_SCOPE ban cho minh biet ban thich mon do nao nhat
+__label__EXIST tren ban co chiec chai nhua nao khong
+__label__LIST hay dem xem co bao nhieu chung loai mon do trong khung hinh
+__label__COUNT ban oi ly trong hinh anh co bao nhieu cai
+__label__COUNT bao nhieu cuon sach dang co mat trong hinh
+__label__EXIST cho toi hoi trong khung hinh co hien dien xe do choi khong
+__label__COUNT cho toi hoi co may chai
+__label__OUT_OF_SCOPE co bao nhieu dong ho tren mat ban
+__label__EXIST cho minh hoi dien thoai di dong co duoc dat trong hinh anh khong
+__label__LOCATION ban oi trong khung hinh chuot may tinh nam o phan nao trai giua hay phai
+__label__COUNT hay dem va cho biet so smartphone trong hinh anh
+__label__EXIST lieu trong hinh co chai khong
+__label__OUT_OF_SCOPE cho toi hoi nhiet do trong phong la bao nhieu nhi
+__label__LOCATION trong khung hinh xe oto do choi nam o phan nao trai giua hay phai
+__label__LOCATION ban oi trong canh oto do choi nam o phan nao trai giua hay phai
+__label__EXIST cho minh hoi trong anh co chiec cuon sach nao khong
+__label__LOCATION vi tri cua con chuot may tinh trong hinh anh la o dau
+__label__EXIST cho toi hoi co chuot may tinh nao trong hinh anh khong
+__label__COUNT cho minh hoi dem xem tren mat ban co bao nhieu hop
+__label__COUNT co tat ca may dien thoai trong hinh
+__label__OUT_OF_SCOPE ban co biet sach nay viet bang tieng gi the
+__label__LOCATION cuon sach nam ve phia nao trong hinh
+__label__COUNT co tat ca may binh nuoc trong hinh
+__label__COUNT ban oi co bao nhieu sach trong khung hinh
+__label__EXIST co hop giay trong hinh anh khong vay
+__label__COUNT dem so luong cuon sach co trong anh
+__label__OUT_OF_SCOPE xin hoi xe do choi nay danh cho tre may tuoi nhi
+__label__OUT_OF_SCOPE chiec ban nay cao bao nhieu a
+__label__EXIST co cai hop nao xuat hien tren ban khong
+__label__COUNT dem giup minh so oto do choi trong canh
+__label__COUNT co bao nhieu thung giay trong canh
+__label__LIST ban oi co bao nhieu kieu mon do duoc nhan dien trong khung hinh
+__label__EXIST trong hinh anh co chua coc khong
+__label__COUNT cho minh hoi co may hop giay tren mat ban
+__label__LOCATION cho minh hoi hay chi ra xe oto do choi nam ben trai chinh giua hay ben phai
+__label__LOCATION xin hoi hay cho biet vi tri ngang cua xe do choi trong canh
+__label__OUT_OF_SCOPE ban co biet can phong nay o tang may vay
+__label__LIST trong hinh anh co may lop doi tuong khac nhau
+__label__EXIST ban oi trong hinh anh nay co binh nuoc khong
+__label__LIST xin cho biet so nhom doi tuong trong hinh
+__label__OUT_OF_SCOPE mau sac chu dao cua buc anh la gi nhi
+__label__LIST hay dem xem co bao nhieu lop do dung trong hinh
+__label__COUNT dem xem trong canh co bao nhieu xe oto do choi
+__label__COUNT ban oi co bao nhieu chuot may tinh duoc dat trong canh
+__label__OUT_OF_SCOPE cho toi hoi co doi giay trong anh khong
+__label__OUT_OF_SCOPE ban cho minh biet dien thoai co dang bat man hinh khong the
+__label__COUNT co bao nhieu con chuot may tinh duoc dat trong khung hinh
+__label__EXIST cho toi hoi hop giay co duoc dat trong hinh anh khong
+__label__EXIST cho minh hoi ban co the tim thay chuot trong hinh anh khong
+__label__OUT_OF_SCOPE cho toi hoi mon do nao duoc mua gan day nhat
+__label__LOCATION hay cho biet hop o vi tri trai giua hay phai
+__label__LOCATION cho toi hoi vi tri cua con chuot may tinh trong hinh anh la o dau
+__label__EXIST cho minh hoi ban co nhin thay coc trong anh khong
+__label__OUT_OF_SCOPE cho toi hoi trong buc anh co thay cai ghe khong
+__label__LOCATION xin hoi coc uong nuoc o vi tri nao theo chieu ngang cua anh
+__label__LOCATION cho toi hoi con chuot may tinh xuat hien o vung nao cua hinh
+__label__OUT_OF_SCOPE xin hoi chai nuoc nay con han su dung khong ban
+__label__EXIST tren mat ban co ly nao khong
+__label__OUT_OF_SCOPE co bao nhieu cai ghe trong canh
+__label__COUNT cho toi hoi co bao nhieu tach tren mat ban
+__label__COUNT ban oi dem so luong o to do choi co trong khung hinh
+__label__LIST xin cho biet so chung loai vat the trong buc anh nay
+__label__LOCATION coc nam ve phia nao trong anh
+__label__LIST trong buc anh nay co bao nhieu kieu do vat khac nhau
+__label__EXIST co nhin thay quyen sach nao trong khung hinh khong
+__label__COUNT cho minh hoi ban co the dem so oto do choi trong khung hinh khong
+__label__LOCATION cho toi hoi cuon sach duoc dat o ben trai o giua hay ben phai trong khung hinh
+__label__LIST ban dem duoc bao nhieu loai vat the khac nhau tren mat ban
+__label__EXIST cho toi hoi tren mat ban co hop giay nao khong
+__label__COUNT cho minh hoi hay dem va cho biet so xe oto do choi trong canh
+__label__EXIST cho minh hoi ban co phat hien dien thoai di dong trong hinh anh khong
+__label__LIST trong khung hinh co bao nhieu loai do vat khac nhau
+__label__OUT_OF_SCOPE ban oi buc anh co bi mo khong the
+__label__COUNT ban oi ban thay bao nhieu chai nuoc tren ban
+__label__LIST so lop mon do khac nhau trong khung hinh la bao nhieu
+__label__COUNT co duoc bao nhieu o to do choi
+__label__COUNT cho toi hoi dem giup minh so coc uong nuoc tren ban
+__label__OUT_OF_SCOPE tren mat ban co qua chuoi nao khong
+__label__LOCATION cho biet tach o ben trai giua hay ben phai
+__label__EXIST cho minh hoi trong canh nay co hop giay khong
+__label__LIST co bao nhieu kieu do dung khac nhau tren ban
+__label__OUT_OF_SCOPE con gau bong nam o dau trong khung hinh
+__label__EXIST co chai nuoc xuat hien khong
+__label__COUNT trong anh co tat ca bao nhieu binh nuoc
+__label__OUT_OF_SCOPE cho toi hoi hay dem so cuon giay ve sinh xuat hien trong anh
+__label__LIST xin hoi trong anh co bao nhieu chung loai vat the duoc gan nhan
+__label__LOCATION hay cho biet smartphone o vi tri trai giua hay phai
+__label__EXIST trong anh co oto do choi nao khong
+__label__LOCATION dien thoai di dong o giua khung hinh hay o hai ben
+__label__COUNT xin hoi co bao nhieu cai coc uong nuoc trong hinh anh
+__label__LIST dem giup minh so lop doi tuong khac nhau trong hinh anh
+__label__COUNT xin hoi ban co the dem so oto do choi trong hinh khong
+__label__LOCATION vi tri cua o to do choi trong hinh la o dau
+__label__LOCATION cuon sach o ben trai o giua hay ben phai cua anh
+__label__LIST xin cho biet so chung loai do dung trong anh
+__label__LOCATION ban thay chai nhua o phia nao cua canh
+__label__OUT_OF_SCOPE hay dem so cai ghe xuat hien trong khung hinh
+__label__OUT_OF_SCOPE xin hoi cai thia nam o dau trong canh
+__label__EXIST co cai oto do choi nao xuat hien trong anh khong
+__label__OUT_OF_SCOPE cho minh hoi mon do nao duoc mua gan day nhat
+__label__LIST cho minh hoi tinh so loai vat the khac nhau co trong khung hinh
+__label__EXIST ban co thay oto do choi khong
+__label__COUNT hay dem so chai xuat hien trong canh
+__label__LOCATION ban oi con chuot may tinh duoc dat o ben trai o giua hay ben phai tren mat ban
+__label__OUT_OF_SCOPE banh mi nam o dau trong khung hinh
+__label__COUNT ban co the dem so xe do choi khong
+__label__LIST xin hoi trong khung hinh co bao nhieu nhom do dung khac nhau
+__label__LIST cho minh hoi trong buc anh nay co bao nhieu chung loai vat the khac nhau
+__label__EXIST ban co nhin thay binh nuoc trong anh khong
+__label__EXIST trong hinh co chiec chuot may tinh nao khong
+__label__EXIST tim xem trong hinh anh co dien thoai khong
+__label__LOCATION cho toi hoi ban thay tach o phia nao cua buc anh
+__label__LOCATION xac dinh xem coc uong nuoc o ben trai giua hay phai cua hinh
+__label__COUNT cho minh hoi trong hinh anh co tong cong may chai
+__label__LIST cho minh hoi co bao nhieu loai do dung rieng biet trong hinh anh
+__label__LIST cho minh hoi dem giup minh so nhom vat the khac nhau tren ban
+__label__OUT_OF_SCOPE trong khung hinh co cai remote nao khong
+__label__LOCATION cho minh hoi trong anh xe do choi o ben nao
+__label__OUT_OF_SCOPE cho minh hoi pin dien thoai con bao nhieu phan tram a
+__label__COUNT co bao nhieu cai con chuot may tinh trong buc anh
+__label__LOCATION hay cho biet coc o vi tri trai giua hay phai
+__label__COUNT co bao nhieu cai cuon sach trong buc anh
+__label__OUT_OF_SCOPE cho minh hoi cac do vat co duoc sap xep gon gang khong
+__label__LIST ban oi dem giup minh so loai do vat khac nhau trong hinh
+__label__OUT_OF_SCOPE ban oi cai thia nam o dau trong buc anh
+__label__COUNT trong buc anh nay so chai nuoc la bao nhieu
+__label__EXIST chuot co xuat hien trong hinh anh khong
+__label__OUT_OF_SCOPE ban oi canh nay o trong nha hay ngoai troi
+__label__OUT_OF_SCOPE xin hoi cai remote nam o dau trong khung hinh
+__label__LIST xin hoi trong anh co bao nhieu kieu mon do duoc gan nhan
+__label__COUNT cho minh hoi trong hinh co bao nhieu thung giay
+__label__OUT_OF_SCOPE cho toi hoi chai nuoc chua bao nhieu ml nhi
+__label__LIST cho toi hoi co tat ca may kieu do vat khac nhau trong khung hinh
+__label__LIST cho toi hoi xin cho biet so nhom do vat trong anh
+__label__OUT_OF_SCOPE cho minh hoi hay dem so kinh mat xuat hien trong hinh
+__label__EXIST ban oi tim xem trong anh co o to do choi khong
+__label__LIST tong so lop do dung khac nhau trong canh la bao nhieu
+__label__COUNT co bao nhieu ly duoc dat
+__label__COUNT cho minh hoi trong canh co tong cong may cuon sach
+__label__LIST cho toi hoi trong buc anh nay co tong cong may nhom mon do
+__label__LOCATION cho toi hoi ban thay smartphone o phia nao cua buc anh
+__label__LIST cho minh hoi co bao nhieu lop do dung rieng biet trong buc anh nay
+__label__OUT_OF_SCOPE ban oi trong canh co thay nguoi khong
+__label__LIST co tat ca may chung loai do dung khac nhau trong hinh anh
+__label__LIST co may chung loai do dung khac nhau
+__label__LOCATION cho minh hoi oto do choi duoc dat o ben trai o giua hay ben phai tren mat ban
+__label__OUT_OF_SCOPE ban co biet bay gio la may gio
+__label__COUNT cho toi hoi xin dem so hop giay trong khung hinh
+__label__LIST dem giup minh so nhom do dung khac nhau trong canh
+__label__LOCATION ban oi chuot may tinh nam ben trai hay ben phai hay o giua anh
+__label__EXIST trong anh co chiec binh nuoc nao khong
+__label__EXIST ban oi co phai co chuot may tinh khong
+__label__LOCATION cho toi hoi trong hinh anh sach o ben nao
+__label__EXIST hay cho biet trong anh co dien thoai hay khong
+__label__LIST xin hoi trong khung hinh co bao nhieu nhom do vat duoc gan nhan
+__label__EXIST coc co xuat hien trong khung hinh khong
+__label__LOCATION ban oi thung giay xuat hien o vung nao cua khung hinh
+__label__OUT_OF_SCOPE hay dem so chau cay xuat hien trong hinh
+__label__COUNT xin hoi co bao nhieu o to do choi duoc dat trong khung hinh
+__label__EXIST trong canh co it nhat mot coc khong
+__label__LOCATION vi tri cua dien thoai di dong trong buc anh la o dau
+__label__LOCATION cho biet con chuot may tinh o ben trai giua hay ben phai
+__label__OUT_OF_SCOPE xin hoi cac do vat co duoc sap xep gon gang khong
+__label__LIST cho minh hoi dem giup minh so chung loai vat the khac nhau trong hinh
+__label__EXIST trong buc anh co quyen sach hay khong
+__label__OUT_OF_SCOPE cho minh hoi anh sang den tu cua so hay den a
+__label__LOCATION cho biet coc o ben trai giua hay ben phai
+__label__LOCATION vi tri cua cuon sach trong khung hinh la o dau
+__label__LOCATION ban oi coc uong nuoc o phia ben nao cua khung hinh
+__label__COUNT cho minh hoi xin dem so thung giay trong buc anh
+__label__COUNT cho toi hoi dem so luong cuon sach co trong canh
+__label__LIST xin cho biet so loai vat the trong anh
+__label__LIST so luong loai do dung la bao nhieu
+__label__LIST trong canh nay co bao nhieu loai doi tuong khac nhau
+__label__LIST hay cho biet co bao nhieu loai mon do trong canh
+__label__COUNT ban co the dem so chai nuoc khong
+__label__COUNT co duoc bao nhieu cai hop trong canh
+__label__LIST xin cho biet so nhom do vat trong buc anh nay
+__label__LIST tong so chung loai do vat khac nhau trong buc anh la bao nhieu
+__label__COUNT cho minh hoi hay dem va cho biet so oto do choi trong khung hinh
+__label__OUT_OF_SCOPE trong anh co thay cai vi khong
+__label__OUT_OF_SCOPE cho minh hoi giai thich thuat toan yolo la gi the
+__label__LIST xin hoi hay liet ke so kieu doi tuong khac nhau trong khung hinh
+__label__LIST cho minh hoi so chung loai do vat khac nhau tren ban la bao nhieu
+__label__LIST so luong lop do dung trong buc anh nay la bao nhieu
+__label__LOCATION cho minh hoi dien thoai di dong xuat hien o phia nao trai giua hay phai
+__label__LOCATION ban oi chai o vi tri nao theo chieu ngang cua hinh anh
+__label__LIST tinh so nhom do dung khac nhau co trong khung hinh
+__label__COUNT cho minh hoi xin dem so hop trong anh
+__label__LIST ban oi co bao nhieu kieu doi tuong rieng biet trong anh
+__label__EXIST xin hoi trong anh co chiec con chuot may tinh nao khong
+__label__LOCATION trong buc anh binh nuoc nam o phan nao trai giua hay phai
+__label__LOCATION chai nuoc xuat hien o phia nao trai giua hay phai
+__label__OUT_OF_SCOPE phong nay la phong khach hay phong ngu vay
+__label__LOCATION cuon sach nam ben trai hay ben phai hay o giua khung hinh
+__label__OUT_OF_SCOPE xe do choi nay chay bang pin khong the
+__label__LOCATION ban oi hay chi ra xe do choi nam ben trai chinh giua hay ben phai
+__label__OUT_OF_SCOPE cho toi hoi nuoc trong chai co uong duoc khong nhi
+__label__LOCATION coc uong nuoc nam ve phia nao trong hinh anh
+__label__COUNT trong khung hinh co tong cong may xe oto do choi
+__label__LOCATION xin hoi sach nam o phan ben trai phan giua hay phan ben phai
+__label__LIST cho toi hoi trong khung hinh co tong cong may kieu doi tuong
+__label__LOCATION hay xac dinh dien thoai nam ben trai o giua hay ben phai anh
+__label__EXIST co cai quyen sach nao xuat hien trong khung hinh khong
+__label__LIST hay dem xem co bao nhieu lop do vat trong khung hinh
+__label__EXIST cho minh hoi coc uong nuoc co duoc dat trong canh khong
+__label__LIST xin hoi co bao nhieu kieu mon do duoc nhan dien trong hinh anh
+__label__LIST ban oi trong anh co tat ca bao nhieu lop do dung
+__label__COUNT ban oi co duoc bao nhieu xe do choi tren mat ban
+__label__COUNT cho minh hoi co bao nhieu cai sach trong hinh anh
+__label__OUT_OF_SCOPE ban co biet ban co the hat mot bai hat khong
+__label__LIST ban oi xin cho biet so chung loai mon do trong anh
+__label__COUNT dem so luong sach co trong buc anh
+__label__OUT_OF_SCOPE xin hoi co binh hoa trong anh khong
+__label__COUNT cho minh hoi hay dem xem co may coc uong nuoc trong canh
+__label__EXIST trong canh nay co xuat hien sach khong
+__label__COUNT ban oi dem so sach trong anh
+__label__COUNT ban oi trong anh co bao nhieu chuot may tinh tat ca
+__label__COUNT cho toi hoi ban thay bao nhieu chuot trong hinh
+__label__COUNT co bao nhieu quyen sach trong khung hinh
+__label__OUT_OF_SCOPE trong anh co cai keo nao khong
+__label__LIST co bao nhieu lop do dung khong trung nhau trong hinh
+__label__EXIST trong hinh co tach hay khong
+__label__COUNT cho toi hoi xin dem so o to do choi trong hinh anh
+__label__LOCATION hay xac dinh chuot may tinh nam ben trai o giua hay ben phai anh
+__label__LIST co bao nhieu chung loai vat the khong trung nhau trong buc anh nay
+__label__LIST co bao nhieu chung loai mon do khac nhau trong buc anh nay
+__label__OUT_OF_SCOPE ban oi co dong xu trong anh khong
+__label__LOCATION ban oi hay xac dinh hop giay nam ben trai o giua hay ben phai anh
+__label__LIST hay liet ke so nhom do vat khac nhau trong hinh anh
+__label__LIST cho minh hoi tinh so chung loai do vat khac nhau co trong khung hinh
+__label__OUT_OF_SCOPE ban co biet nuoc trong chai co uong duoc khong vay
+__label__EXIST xin hoi co con chuot may tinh nao trong hinh khong
+__label__COUNT cho toi hoi co duoc bao nhieu coc trong buc anh nay
+__label__COUNT dem giup minh so con chuot may tinh trong hinh
+__label__COUNT hay dem va cho biet so chai trong buc anh nay
+__label__LOCATION smartphone o phia ben nao cua khung hinh
+__label__OUT_OF_SCOPE buc anh co bi mo khong
+__label__OUT_OF_SCOPE co bao nhieu cuon giay ve sinh trong anh
+__label__LOCATION chuot o vi tri nao theo chieu ngang cua buc anh
+__label__LIST cho minh hoi dem giup minh so nhom do vat khac nhau
+__label__LOCATION quyen sach o giua canh hay o hai ben
+__label__EXIST xin hoi ban co thay chuot may tinh trong buc anh nay khong
+__label__LOCATION hay chi ra chuot may tinh nam ben trai chinh giua hay ben phai
+__label__COUNT xin hoi hay dem so coc xuat hien trong hinh anh
+__label__COUNT co may xe do choi trong hinh anh
+__label__OUT_OF_SCOPE co nen mua them mot chiec coc khong the
+__label__EXIST ban co the tim thay cai hop trong buc anh khong
+__label__LIST co bao nhieu kieu doi tuong duoc nhan dien trong khung hinh
+__label__LOCATION cho minh hoi coc uong nuoc o giua canh hay o hai ben
+__label__EXIST cho toi hoi co cai cai hop nao xuat hien trong anh khong
+__label__COUNT cho minh hoi trong anh co tong cong may sach
+__label__COUNT cho minh hoi co tat ca may chai nhua trong canh
+__label__OUT_OF_SCOPE ban oi co cai ghe trong anh khong
+__label__OUT_OF_SCOPE ai da chup buc anh nay
+__label__OUT_OF_SCOPE xe do choi nay danh cho tre may tuoi
+__label__EXIST cho minh hoi trong buc anh nay co chiec xe oto do choi nao khong
+__label__LIST so lop vat the khac nhau trong anh la bao nhieu
+__label__COUNT co may chai nhua trong anh
+__label__LOCATION cho biet o to do choi o ben trai giua hay ben phai
+__label__LOCATION xac dinh xem coc uong nuoc o ben trai giua hay phai cua hinh anh
+__label__OUT_OF_SCOPE ban cho minh biet chai nuoc nay con han su dung khong ban
+__label__LIST cho minh hoi trong canh nay co tong cong may chung loai do vat
+__label__OUT_OF_SCOPE ban oi co con meo trong anh khong
+__label__COUNT trong anh co tong cong may smartphone
+__label__LIST cho minh hoi hay cho biet co bao nhieu loai mon do trong hinh anh
+__label__OUT_OF_SCOPE ban oi qua tao nam o dau trong khung hinh
+__label__LIST cho minh hoi tinh so nhom doi tuong khac nhau co trong anh
+__label__COUNT cho toi hoi dem so cuon sach
+__label__COUNT xin hoi co bao nhieu chiec xe oto do choi trong buc anh
+__label__COUNT co bao nhieu chiec coc uong nuoc trong canh
+__label__COUNT co duoc bao nhieu oto do choi trong khung hinh
+__label__LIST ban oi co bao nhieu lop vat the rieng biet trong canh
+__label__COUNT co bao nhieu cai oto do choi trong khung hinh
+__label__OUT_OF_SCOPE ban co biet bao gio thi den tet a
+__label__COUNT ban oi co may cai hop trong buc anh nay
+__label__OUT_OF_SCOPE cho toi hoi co nen mua them mot chiec coc khong
+__label__COUNT ban oi ban co the dem so chai nhua trong anh khong
+__label__OUT_OF_SCOPE ban co biet hom nay la thu may
+__label__OUT_OF_SCOPE binh hoa nam o dau trong khung hinh
+__label__COUNT hay dem xem co may hop trong anh
+__label__COUNT xin dem so con chuot may tinh trong canh
+__label__EXIST xin hoi co nhin thay ly nao trong anh khong
+__label__LOCATION cuon sach xuat hien o vung nao cua canh
+__label__EXIST trong khung hinh co chai nhua nao khong
+__label__OUT_OF_SCOPE ban oi cai mu nam o dau trong khung hinh
+__label__LOCATION cho minh hoi cho biet dien thoai di dong o ben trai giua hay ben phai
+__label__LIST co bao nhieu kieu do vat rieng biet trong hinh anh
+__label__LOCATION cai hop o giua anh hay o hai ben
+__label__COUNT co duoc bao nhieu sach trong hinh anh
+__label__OUT_OF_SCOPE ban cho minh biet lam sao de nau pho ban
+__label__COUNT trong khung hinh co tong cong may sach
+__label__COUNT ban oi trong canh nay co tat ca bao nhieu chai
+__label__OUT_OF_SCOPE phong nay la phong khach hay phong ngu
+__label__OUT_OF_SCOPE cai dia nam o dau trong khung hinh
+__label__EXIST ban co thay tach trong buc anh nay khong
+__label__OUT_OF_SCOPE buc anh co bi mo khong vay
+__label__OUT_OF_SCOPE xin hoi trong hinh co qua bong nao khong
+__label__EXIST xin hoi ban co nhin thay tach trong anh khong
+__label__OUT_OF_SCOPE xin hoi do vat nao dat nhat trong anh nhi
+__label__COUNT o to do choi co bao nhieu cai
+__label__OUT_OF_SCOPE ban cho minh biet canh nay o trong nha hay ngoai troi vay
+__label__EXIST ban co nhin thay hop giay trong anh khong
+__label__LOCATION xin hoi cho biet xe do choi o ben trai giua hay ben phai
+__label__COUNT hay dem xem co may ly trong anh
+__label__LIST xin hoi co tat ca may lop do vat khac nhau trong hinh
+__label__EXIST xin hoi trong khung hinh co xuat hien quyen sach khong
+__label__OUT_OF_SCOPE trong anh co thay dong xu khong
+__label__LIST cho toi hoi co may lop do dung khac nhau tren ban
+__label__COUNT co may smartphone trong khung hinh
+__label__COUNT cho minh hoi co bao nhieu chuot may tinh duoc dat trong hinh
+__label__OUT_OF_SCOPE ban cho minh biet khan trai ban co mau gi vay
+__label__OUT_OF_SCOPE ban co the hat mot bai hat khong vay
+__label__OUT_OF_SCOPE cho toi hoi co bao nhieu em be tren ban
+__label__EXIST co ton tai quyen sach trong hinh anh khong
+__label__LIST ban oi co bao nhieu chung loai vat the rieng biet trong hinh anh
+__label__EXIST trong hinh co it nhat mot chuot may tinh khong
+__label__OUT_OF_SCOPE ban oi sach nay viet bang tieng gi
+__label__EXIST hay cho biet co chuot hay khong
+__label__LOCATION dien thoai o phia ben nao cua khung hinh
+__label__LIST co tat ca may nhom doi tuong khac nhau trong buc anh
+__label__EXIST ban oi ban co phat hien dien thoai di dong trong canh khong
+__label__LIST tren mat ban co tong cong may loai mon do
+__label__LOCATION cho biet coc uong nuoc o ben trai giua hay ben phai
+__label__OUT_OF_SCOPE xe do choi nay danh cho tre may tuoi a
+__label__OUT_OF_SCOPE ban co biet ban co phai la nguoi that khong the
+__label__LOCATION cho toi hoi xac dinh xem cai hop o ben trai giua hay phai cua khung hinh
+__label__COUNT xin hoi hay dem xem co may oto do choi trong buc anh
+__label__COUNT co bao nhieu quyen sach trong hinh
+__label__COUNT hay dem va cho biet so xe oto do choi trong khung hinh
+__label__EXIST cho toi hoi trong buc anh co hien dien dien thoai khong
+__label__EXIST trong canh nay co chai nuoc nao khong
+__label__LOCATION ban oi theo chieu ngang chuot may tinh nam o dau trong canh
+__label__OUT_OF_SCOPE ai da chup buc anh nay the
+__label__OUT_OF_SCOPE mon do nao duoc mua gan day nhat nhi
+__label__COUNT trong buc anh co bao nhieu o to do choi tat ca
+__label__LIST cho minh hoi dem giup minh so kieu mon do khac nhau trong hinh
+__label__EXIST ly co xuat hien trong hinh anh khong
+__label__LOCATION cho minh hoi xe oto do choi duoc dat o ben trai o giua hay ben phai trong buc anh nay
+__label__COUNT cho toi hoi ban co the dem so dien thoai trong canh khong
+__label__LIST cho minh hoi co bao nhieu loai do dung khong trung nhau trong anh
+__label__LIST ban dem duoc bao nhieu nhom mon do khac nhau tren mat ban
+__label__LIST so luong chung loai vat the trong buc anh nay la bao nhieu
+__label__EXIST trong hinh anh co chua chuot khong
+__label__LOCATION trong hinh ly o ben nao
+__label__OUT_OF_SCOPE tren mat ban co doi giay nao khong
+__label__EXIST tren ban co thung giay khong
+__label__LOCATION xin hoi chai nuoc nam ben trai hay ben phai hay o giua buc anh
+__label__OUT_OF_SCOPE trong anh co cai thia nao khong
+__label__OUT_OF_SCOPE ban cho minh biet phong nay la phong khach hay phong ngu
+__label__OUT_OF_SCOPE ban cho minh biet do vat nao nang nhat tren ban
+__label__OUT_OF_SCOPE ban co biet ngoai troi co dang mua khong a
+__label__LIST co tat ca may lop doi tuong khac nhau trong khung hinh
+__label__LIST so lop mon do khac nhau tren mat ban la bao nhieu
+__label__COUNT co tat ca may cuon sach trong buc anh
+__label__EXIST cho minh hoi ban co phat hien chai nuoc trong khung hinh khong
+__label__OUT_OF_SCOPE trong hinh co doi giay nao khong
+__label__COUNT cho minh hoi trong hinh co bao nhieu quyen sach
+__label__EXIST xin hoi trong hinh nay co quyen sach khong
+__label__COUNT cho toi hoi tren mat ban co tat ca bao nhieu chuot may tinh
+__label__OUT_OF_SCOPE ban oi canh nay chup vao ban ngay hay ban dem a
+__label__LIST cho toi hoi dem giup minh so chung loai doi tuong khac nhau trong anh
+__label__COUNT dem giup minh so cuon sach trong anh
+__label__OUT_OF_SCOPE trong buc anh co thay kinh mat khong
+__label__COUNT trong hinh co bao nhieu sach
+__label__LOCATION ban oi xac dinh xem xe do choi o ben trai giua hay phai cua khung hinh
+__label__LOCATION cho toi hoi hay cho biet xe oto do choi o vi tri trai giua hay phai
+__label__LOCATION chuot may tinh nam ve phia nao trong anh
+__label__LIST trong canh nay co tong cong may nhom vat the
+__label__OUT_OF_SCOPE xin hoi co bao nhieu tai nghe tren ban
+__label__LIST xin cho biet so nhom do dung trong hinh
+__label__COUNT co bao nhieu chiec chuot trong anh
+__label__EXIST co phai tren ban co dien thoai di dong khong
+__label__LOCATION cho toi hoi hay xac dinh quyen sach nam ben trai o giua hay ben phai anh
+__label__EXIST tren mat ban co coc uong nuoc khong
+__label__COUNT xe oto do choi trong hinh anh co bao nhieu cai
+__label__OUT_OF_SCOPE ban oi tren mat ban co binh hoa nao khong
+__label__EXIST hay cho biet trong buc anh nay co xe do choi hay khong
+__label__COUNT dem so coc uong nuoc trong anh
+__label__LOCATION chai o phia ben nao cua khung hinh
+__label__LIST cho toi hoi trong buc anh nay co bao nhieu chung loai mon do khac nhau
+__label__EXIST ban co the tim thay smartphone trong hinh anh khong
+__label__LOCATION sach duoc dat o ben trai o giua hay ben phai trong khung hinh
+__label__COUNT co bao nhieu cai xe oto do choi trong hinh anh
+__label__COUNT ban oi co may ly trong buc anh nay
+__label__OUT_OF_SCOPE mau sac chu dao cua buc anh la gi
+__label__OUT_OF_SCOPE do sang cua anh co du khong the
+__label__EXIST co nhin thay quyen sach nao trong hinh anh khong
+__label__EXIST cho minh hoi trong khung hinh co it nhat mot chai nuoc khong
+__label__LIST so luong loai mon do trong khung hinh la bao nhieu
+__label__COUNT cho toi hoi trong canh nay so binh nuoc la bao nhieu
+__label__LOCATION vi tri cua oto do choi trong khung hinh la o dau
+__label__LIST tong so nhom mon do khac nhau trong hinh anh la bao nhieu
+__label__OUT_OF_SCOPE cho minh hoi cai quat nam o dau trong buc anh
+__label__LIST tinh so lop do vat khac nhau co trong khung hinh
+__label__EXIST cho minh hoi trong hinh co it nhat mot chai nhua khong
+__label__COUNT ban co the dem so hop giay trong canh khong
+__label__LIST cho toi hoi hay cho biet co bao nhieu chung loai doi tuong tren ban
+__label__LOCATION xin hoi xac dinh xem con chuot may tinh o ben trai giua hay phai cua khung hinh
+__label__EXIST cho toi hoi trong canh nay co chai nhua khong
+__label__EXIST co phai trong khung hinh co binh nuoc khong
+__label__OUT_OF_SCOPE ban co biet ai da chup buc anh nay nhi
+__label__COUNT cho minh hoi dem so chai nhua trong anh
+__label__LOCATION cho toi hoi cuon sach o phia ben nao cua khung hinh
+__label__LIST xin hoi trong hinh xuat hien bao nhieu nhom vat the
+__label__COUNT ban oi ban co the dem so chai nhua trong hinh khong
+__label__EXIST ban oi co ton tai coc uong nuoc trong hinh khong
+__label__EXIST tren ban co xuat hien dien thoai khong
+__label__LOCATION xin hoi coc uong nuoc nam ve phia nao trong anh
+__label__LIST trong canh co may lop mon do khac nhau
+__label__EXIST ban oi lieu tren mat ban co chuot may tinh khong
+__label__LIST tren ban co bao nhieu kieu do dung khac nhau
+__label__OUT_OF_SCOPE cho toi hoi laptop nam o dau trong hinh anh
+__label__OUT_OF_SCOPE ban oi chiec hop nay rong hay day do
+__label__EXIST trong khung hinh co hien dien chai nhua khong
+__label__LIST co tat ca may kieu doi tuong khac nhau trong canh
+__label__EXIST xin hoi ban co nhin thay cai hop trong anh khong
+__label__LOCATION xin hoi xe do choi o giua canh hay o hai ben
+__label__OUT_OF_SCOPE ban cho minh biet coc lam bang su hay thuy tinh ban
+__label__EXIST cho toi hoi co coc uong nuoc xuat hien tren mat ban khong
+__label__COUNT trong hinh nay so oto do choi la bao nhieu
+__label__LIST co may kieu do vat khac nhau trong buc anh nay
+__label__EXIST xin hoi co sach tren mat ban khong vay
+__label__EXIST trong hinh co hien dien hop giay khong
+__label__EXIST cho toi hoi co phai trong hinh anh co chai nuoc khong
+__label__OUT_OF_SCOPE ban oi cay nen nam o dau trong khung hinh
+__label__EXIST cho minh hoi co phai trong hinh co tach khong
+__label__COUNT xin dem so hop giay trong hinh
+__label__LIST so lop do vat khac nhau trong canh la bao nhieu
+__label__LOCATION ban thay chai nuoc o phia nao cua hinh anh
+__label__OUT_OF_SCOPE trong canh nay co qua bong nao khong
+__label__COUNT xin hoi hay dem xem co may coc trong hinh anh
+__label__LIST cho toi hoi so luong chung loai doi tuong trong hinh anh la bao nhieu
+__label__COUNT cho toi hoi co bao nhieu cai chai nhua trong hinh anh
+__label__LIST cho toi hoi co may loai vat the khac nhau
+__label__COUNT trong buc anh co bao nhieu dien thoai di dong tat ca
+__label__COUNT cho toi hoi dem xem trong buc anh nay co bao nhieu xe do choi
+__label__LIST ban oi tren ban co tong cong may chung loai mon do
+__label__OUT_OF_SCOPE ban cho minh biet phong nay la phong khach hay phong ngu a
+__label__COUNT cho toi hoi dem so coc uong nuoc tren mat ban
+__label__LIST ban oi co may loai doi tuong khac nhau trong canh
+__label__LIST cho minh hoi trong anh co bao nhieu kieu doi tuong khac nhau
+__label__EXIST lieu co xe do choi khong
+__label__COUNT xin hoi hay dem so dien thoai di dong xuat hien trong anh
+__label__OUT_OF_SCOPE ban cho minh biet ban co the ke mot cau chuyen cuoi khong the
+__label__LOCATION ban oi cai hop o vi tri nao theo chieu ngang cua buc anh
+__label__LOCATION cho toi hoi hay xac dinh o to do choi nam ben trai o giua hay ben phai anh
+__label__OUT_OF_SCOPE cho minh hoi trong anh co thay qua tao khong
+__label__OUT_OF_SCOPE co cai dia trong anh khong
+__label__OUT_OF_SCOPE trong buc anh co thay cai thia khong
+__label__LIST ban dem duoc bao nhieu kieu do vat khac nhau trong hinh
+__label__LOCATION cho toi hoi hay xac dinh oto do choi nam ben trai o giua hay ben phai anh
+__label__LOCATION ban oi trong khung hinh dien thoai di dong o ben nao
+__label__EXIST tim xem trong buc anh co thung giay khong
+__label__OUT_OF_SCOPE chai nuoc nay con han su dung khong vay
+__label__LIST xin cho biet so loai do vat tren ban
+__label__EXIST cho toi hoi tren ban co xuat hien quyen sach khong
+__label__LOCATION cho toi hoi hay chi ra chuot may tinh nam ben trai chinh giua hay ben phai
+__label__OUT_OF_SCOPE xin hoi ngay mai co mua khong a
+__label__EXIST co oto do choi nao tren mat ban khong
+__label__LIST ban oi trong hinh co may chung loai do dung khac nhau
+__label__COUNT cho minh hoi dem giup minh so dien thoai di dong tren ban
+__label__EXIST cho minh hoi tim xem trong canh co coc khong
+__label__COUNT co bao nhieu chiec chai trong hinh anh
+__label__EXIST cho minh hoi trong hinh co chai nuoc khong
+__label__EXIST ban oi trong hinh co coc hay khong
+__label__EXIST cho toi hoi tren ban co xuat hien ly khong
+__label__LOCATION cho toi hoi con chuot may tinh nam gan mep trai o giua hay gan mep phai
+__label__LIST co bao nhieu chung loai do vat khong trung nhau tren ban
+__label__LIST xin hoi xin cho biet so kieu do vat tren ban
+__label__COUNT ban oi trong buc anh co tong cong may tach
+__label__LIST tinh so loai doi tuong khac nhau co trong hinh anh
+__label__COUNT hay dem va cho biet so dien thoai di dong trong hinh
+__label__LIST so luong lop vat the trong canh la bao nhieu
+__label__LOCATION cho minh hoi hay chi ra dien thoai di dong nam ben trai chinh giua hay ben phai
+__label__LIST trong hinh co bao nhieu loai do dung duoc gan nhan
+__label__COUNT bao nhieu ly dang co mat trong hinh
+__label__OUT_OF_SCOPE cai thuoc ke nam o dau trong khung hinh
+__label__LIST cho minh hoi tren mat ban co tong cong may chung loai doi tuong
+__label__LOCATION vi tri coc uong nuoc so voi khung hinh la trai giua hay phai
+__label__OUT_OF_SCOPE ban oi trong hinh anh co thay nguoi khong
+__label__LIST trong anh co tat ca bao nhieu loai do dung
+__label__OUT_OF_SCOPE cho toi hoi co qua bong trong anh khong
+__label__OUT_OF_SCOPE cho toi hoi hop nay dung de dung gi vay
+__label__EXIST cho toi hoi tren ban co xuat hien dien thoai khong
+__label__COUNT cho minh hoi hay dem va cho biet so binh nuoc trong canh
+__label__EXIST ban oi trong buc anh nay co xuat hien chuot may tinh khong
+__label__EXIST co phai trong hinh co con chuot may tinh khong
+__label__OUT_OF_SCOPE qua chuoi nam o dau trong canh
+__label__EXIST trong buc anh nay co chiec con chuot may tinh nao khong
+__label__EXIST trong hinh anh co hien dien coc khong
+__label__LIST xin hoi co tat ca may nhom mon do khac nhau trong buc anh
+__label__LIST ban dem duoc bao nhieu kieu doi tuong khac nhau tren mat ban
+__label__EXIST co xe do choi trong khung hinh khong vay
+__label__EXIST tren mat ban co xuat hien chuot may tinh khong
+__label__LIST trong khung hinh co tat ca bao nhieu chung loai doi tuong
+__label__LOCATION vi tri o to do choi so voi khung hinh la trai giua hay phai
+__label__EXIST cho minh hoi trong hinh anh co chai nuoc hay khong
+__label__COUNT xin hoi dem so cuon sach tren ban
+__label__LOCATION xe oto do choi xuat hien o vung nao cua khung hinh
+__label__LOCATION ban thay coc o phia nao cua buc anh
+__label__COUNT xin hoi co duoc bao nhieu chuot may tinh
+__label__LIST cho minh hoi tong so loai mon do khac nhau trong buc anh la bao nhieu
+__label__EXIST trong hinh co xuat hien con chuot may tinh khong
+__label__OUT_OF_SCOPE can phong nay o tang may vay
+__label__COUNT xin hoi hay dem xem co may dien thoai trong hinh
+__label__LIST hay liet ke so nhom mon do khac nhau
+__label__EXIST xin hoi co sach nao khong
+__label__EXIST cho toi hoi trong buc anh nay co cai hop nao khong
+__label__LIST cho toi hoi hay cho biet co bao nhieu nhom mon do trong canh
+__label__COUNT xin hoi dem so chuot may tinh
+__label__OUT_OF_SCOPE co bao nhieu con chim tren ban
+__label__COUNT xin dem so chai nhua trong khung hinh
+__label__LOCATION ban oi chai o vi tri nao theo chieu ngang cua canh
+__label__EXIST co chuot may tinh xuat hien trong hinh khong
+__label__OUT_OF_SCOPE ban oi trong hinh co thay cai bat khong
+__label__EXIST xin hoi co chuot xuat hien tren ban khong
+__label__LOCATION dien thoai di dong o ben trai o giua hay ben phai cua hinh
+__label__COUNT co bao nhieu chiec chuot trong buc anh
+__label__LIST co tat ca may chung loai do dung khac nhau trong hinh
+__label__EXIST cho minh hoi dien thoai co xuat hien trong hinh anh khong
+__label__EXIST co ton tai coc uong nuoc trong buc anh khong
+__label__LOCATION chuot xuat hien o vung nao cua hinh anh
+__label__EXIST co xe oto do choi trong canh khong vay
+__label__LIST hay liet ke so nhom mon do khac nhau trong canh
+__label__LIST co tat ca may chung loai do vat khac nhau trong buc anh
+__label__LIST cho toi hoi trong canh nay xuat hien bao nhieu loai do dung
+__label__EXIST co nhin thay coc nao trong buc anh khong
+__label__EXIST cho toi hoi trong buc anh nay co hop khong
+__label__LOCATION o to do choi o vi tri nao theo chieu ngang cua canh
+__label__LOCATION coc o ben trai o giua hay ben phai cua buc anh
+__label__LOCATION cai hop nam ve phia nao trong anh
+__label__LOCATION xin hoi theo chieu ngang tach nam o dau trong hinh
+__label__EXIST cho minh hoi co binh nuoc nao trong anh khong
+__label__OUT_OF_SCOPE cho toi hoi nuoc trong chai co uong duoc khong
+__label__EXIST ban oi trong hinh anh nay co dien thoai khong
+__label__OUT_OF_SCOPE cho minh hoi hom nay thoi tiet the nao ban
+__label__LIST ban oi trong canh nay co tong cong may chung loai vat the
+__label__OUT_OF_SCOPE trong canh co thay dong ho khong
+__label__LOCATION xin hoi quyen sach nam o phan ben trai phan giua hay phan ben phai
+__label__LIST hay cho biet co bao nhieu chung loai do vat
+__label__LOCATION sach o giua canh hay o hai ben
+__label__OUT_OF_SCOPE hay dem so cay nen xuat hien trong anh
+__label__COUNT trong anh co tat ca bao nhieu xe do choi
+__label__LOCATION dien thoai nam ve phia nao trong hinh
+__label__LIST trong canh nay xuat hien bao nhieu kieu do vat
+__label__EXIST xin hoi ban co phat hien cai hop trong anh khong
+__label__OUT_OF_SCOPE banh mi nam o dau trong hinh
+__label__EXIST co coc trong canh khong vay
+__label__COUNT hay dem xem co may con chuot may tinh trong canh
+__label__LIST ban oi so kieu do vat khac nhau trong buc anh nay la bao nhieu
+__label__COUNT xin hoi trong anh co tat ca bao nhieu chuot may tinh
+__label__COUNT co duoc bao nhieu hop trong hinh
+__label__OUT_OF_SCOPE cho minh hoi trong anh co thay cai vi khong
+__label__EXIST cho minh hoi co nhin thay tach nao trong hinh khong
+__label__COUNT co tong cong bao nhieu chai xuat hien trong canh
+__label__COUNT trong anh nay so cuon sach la bao nhieu
+__label__OUT_OF_SCOPE co bao nhieu o cam dien tren ban
+__label__LIST trong buc anh nay co bao nhieu lop mon do khac nhau
+__label__OUT_OF_SCOPE xin hoi lam sao de nau pho a
+__label__LIST xin cho biet so kieu mon do trong anh
+__label__LOCATION ban oi vi tri ly so voi khung hinh la trai giua hay phai
+__label__LOCATION o to do choi nam ve phia nao trong canh
+__label__COUNT hay dem va cho biet so binh nuoc trong canh
+__label__EXIST cho toi hoi co ly nao trong anh khong
+__label__OUT_OF_SCOPE co cai thia trong anh khong
+__label__EXIST cho minh hoi co cai chai nao xuat hien trong hinh anh khong
+__label__COUNT ban oi co bao nhieu tach duoc dat trong hinh
+__label__COUNT dem so smartphone trong hinh anh
+__label__OUT_OF_SCOPE cho minh hoi co bao nhieu cay nen
+__label__LOCATION cho minh hoi xe oto do choi duoc dat o ben trai o giua hay ben phai trong khung hinh
+__label__LIST trong hinh anh co bao nhieu lop do vat duoc gan nhan
+__label__LIST ban oi so luong lop doi tuong tren mat ban la bao nhieu
+__label__EXIST xin hoi trong khung hinh co hien dien cuon sach khong
+__label__EXIST ban oi trong canh co coc hay khong
+__label__EXIST ban oi ban co thay cai hop trong hinh khong
+__label__OUT_OF_SCOPE xin hoi anh sang den tu cua so hay den ban
+__label__COUNT xin hoi co bao nhieu chiec chuot trong khung hinh
+__label__OUT_OF_SCOPE cho minh hoi chai nuoc nay con han su dung khong
+__label__EXIST ban co the tim thay chuot may tinh trong buc anh khong
+__label__LIST ban oi co bao nhieu nhom vat the duoc nhan dien trong anh
+__label__LOCATION ban oi hay cho biet coc o vi tri trai giua hay phai
+__label__LIST cho toi hoi co bao nhieu kieu do dung duoc nhan dien
+__label__EXIST co o to do choi xuat hien tren mat ban khong
+__label__EXIST co quyen sach nao trong canh khong
+__label__LIST hay liet ke so loai doi tuong khac nhau
+__label__LIST co bao nhieu lop doi tuong rieng biet trong anh
+__label__OUT_OF_SCOPE cho toi hoi trong anh co thay ban phim khong
+__label__OUT_OF_SCOPE co con meo trong anh khong
+__label__LOCATION chuot o vi tri nao theo chieu ngang cua hinh anh
+__label__LIST co tat ca may chung loai vat the khac nhau trong canh
+__label__EXIST co sach xuat hien trong canh khong
+__label__EXIST trong anh co chiec chai nhua nao khong
+__label__LIST xin hoi trong anh co tong cong may nhom do vat
+__label__LIST tren ban co bao nhieu nhom do dung khac nhau
+__label__LOCATION o to do choi nam ve phia nao trong khung hinh
+__label__OUT_OF_SCOPE hay dem so cai bat xuat hien trong hinh
+__label__LOCATION hay cho biet vi tri ngang cua sach trong buc anh
+__label__LOCATION xin hoi xac dinh xem smartphone o ben trai giua hay phai cua anh
+__label__LIST cho minh hoi ban dem duoc bao nhieu lop doi tuong khac nhau trong buc anh nay
+__label__COUNT cho toi hoi dem giup minh so xe do choi trong canh
+__label__LIST co may kieu mon do khac nhau trong anh
+__label__COUNT hay dem va cho biet so oto do choi trong buc anh nay
+__label__OUT_OF_SCOPE ban oi nuoc trong chai co uong duoc khong a
+__label__LIST so loai vat the khac nhau trong khung hinh la bao nhieu
+__label__OUT_OF_SCOPE ban cho minh biet xe do choi nay chay bang pin khong
+__label__LOCATION hay chi ra quyen sach nam ben trai chinh giua hay ben phai
+__label__OUT_OF_SCOPE trong hinh co thay qua chuoi khong
+__label__COUNT trong anh co bao nhieu coc tat ca
+__label__LOCATION o to do choi nam o phan ben trai phan giua hay phan ben phai
+__label__COUNT xin hoi co bao nhieu quyen sach duoc dat tren mat ban
+__label__COUNT cho minh hoi dem so luong smartphone co trong hinh
+__label__LOCATION chuot nam gan mep trai o giua hay gan mep phai
+__label__EXIST co phai trong hinh anh co xe oto do choi khong
+__label__COUNT cho toi hoi trong hinh co tong cong may chuot
+__label__LIST so chung loai do dung khac nhau trong hinh la bao nhieu
+__label__COUNT ban oi hay dem so con chuot may tinh xuat hien trong buc anh
+__label__COUNT ban oi so chai trong hinh la may
+__label__LIST trong canh nay co tong cong may lop do dung
+__label__LIST so luong nhom mon do trong khung hinh la bao nhieu
+__label__EXIST cho toi hoi coc uong nuoc co duoc dat trong buc anh nay khong
+__label__LOCATION xe oto do choi duoc dat o ben trai o giua hay ben phai trong khung hinh
+__label__LOCATION cho biet chai nuoc o ben trai giua hay ben phai
+__label__OUT_OF_SCOPE cho minh hoi cuon sach nay noi ve chu de gi ban
+__label__COUNT xin hoi ban co the dem so xe do choi tren mat ban khong
+__label__LOCATION xin hoi hop giay duoc dat o ben trai o giua hay ben phai trong buc anh nay
+__label__COUNT hay dem va cho biet so chai trong hinh anh
+__label__OUT_OF_SCOPE cho toi hoi tai nghe nam o dau trong anh
+__label__COUNT xin hoi dem so cuon sach
+__label__EXIST xin hoi trong hinh co con chuot may tinh nao khong
+__label__COUNT hay dem so binh nuoc xuat hien trong canh
+__label__EXIST trong anh co chua oto do choi khong
+__label__EXIST co nhin thay hop nao trong anh khong
+__label__COUNT xin hoi ban co the dem so ly tren ban khong
+__label__EXIST ban co phat hien quyen sach trong anh khong
+__label__LIST so luong nhom vat the trong khung hinh la bao nhieu
+__label__OUT_OF_SCOPE ban co biet mat ban co bi tray xuoc khong vay
+__label__OUT_OF_SCOPE cho toi hoi dien thoai co dang bat man hinh khong the
+__label__LIST so chung loai mon do khac nhau tren ban la bao nhieu
+__label__LOCATION smartphone xuat hien o phia nao trai giua hay phai
+__label__OUT_OF_SCOPE cho toi hoi sach nay viet bang tieng gi ban
+__label__OUT_OF_SCOPE trong khung hinh co den ban nao khong
+__label__COUNT dem so oto do choi trong anh
+__label__OUT_OF_SCOPE cho minh hoi nuoc trong chai co uong duoc khong
+__label__LIST co bao nhieu nhom do dung khong trung nhau trong canh
+__label__LOCATION cho toi hoi oto do choi duoc dat o ben trai o giua hay ben phai tren mat ban
+__label__LOCATION ban thay chai nuoc o phia nao cua buc anh
+__label__EXIST co nhin thay binh nuoc nao trong anh khong
+__label__LOCATION vi tri cua coc uong nuoc trong buc anh la o dau
+__label__OUT_OF_SCOPE ban co biet lam sao de nau pho ban
+__label__OUT_OF_SCOPE cho minh hoi hay dem so cai thuoc ke xuat hien trong anh
+__label__EXIST tren ban co chiec sach nao khong
+__label__OUT_OF_SCOPE chai nuoc nay con han su dung khong a
+__label__OUT_OF_SCOPE co bao nhieu cai o trong anh
+__label__EXIST tim xem trong buc anh co o to do choi khong
+__label__LIST cho toi hoi hay liet ke so kieu doi tuong khac nhau trong hinh
+__label__LIST ban oi xin cho biet so chung loai doi tuong trong hinh anh
+__label__EXIST trong hinh anh co it nhat mot quyen sach khong
+__label__COUNT co bao nhieu cai hop duoc dat trong anh
+__label__EXIST tim xem trong hinh co cai hop khong
+__label__LOCATION chuot may tinh nam ben trai hay ben phai hay o giua hinh anh
+__label__OUT_OF_SCOPE ban co biet hop nay dung de dung gi vay
+__label__LIST hay dem xem co bao nhieu chung loai do vat trong buc anh
+__label__OUT_OF_SCOPE cho toi hoi ngay mai co mua khong the
+__label__LOCATION theo chieu ngang dien thoai di dong nam o dau trong canh
+__label__LIST trong hinh co may nhom do dung khac nhau
+__label__OUT_OF_SCOPE co kinh mat trong anh khong
+__label__EXIST cho toi hoi ban co thay oto do choi tren ban khong
+__label__LOCATION xin hoi sach o ben trai o giua hay ben phai cua anh
+__label__OUT_OF_SCOPE ban co biet xe do choi nay chay bang pin khong nhi
+__label__OUT_OF_SCOPE mau sac chu dao cua buc anh la gi ban
+__label__COUNT ban oi trong canh co tong cong may hop
+__label__LIST ban oi co may loai do dung khac nhau trong khung hinh
+__label__LIST cho toi hoi dem giup minh so nhom do vat khac nhau trong anh
+__label__EXIST co ton tai binh nuoc trong hinh anh khong
+__label__EXIST con chuot may tinh co duoc dat trong canh khong
+__label__EXIST xin hoi trong hinh co hien dien quyen sach khong
+__label__COUNT co tat ca may o to do choi trong anh
+__label__EXIST trong anh co tach hay khong
+__label__LOCATION xe do choi xuat hien o vung nao cua canh
+__label__EXIST cho minh hoi co quyen sach trong khung hinh khong vay
+__label__LIST xin hoi tren mat ban xuat hien bao nhieu chung loai doi tuong
+__label__COUNT cho toi hoi dem so luong chai co trong buc anh
+__label__COUNT co duoc bao nhieu xe oto do choi trong hinh
+__label__COUNT xin hoi dem giup minh so chuot trong khung hinh
+__label__LOCATION coc uong nuoc xuat hien o vung nao cua anh
+__label__EXIST co hop nao trong hinh anh khong
+__label__LIST hay dem xem co bao nhieu lop doi tuong trong anh
+__label__EXIST trong khung hinh co xuat hien sach khong
+__label__LOCATION hay xac dinh thung giay nam ben trai o giua hay ben phai anh
+__label__EXIST xin hoi lieu trong buc anh nay co chai nhua khong
+__label__LOCATION hay chi ra dien thoai nam ben trai chinh giua hay ben phai
+__label__LIST trong canh nay xuat hien bao nhieu nhom vat the
+__label__LOCATION xin hoi hay xac dinh tach nam ben trai o giua hay ben phai anh
+__label__EXIST trong buc anh co chua chuot may tinh khong
+__label__LOCATION ban thay xe do choi o phia nao cua khung hinh
+__label__LOCATION cho minh hoi ban thay coc o phia nao cua anh
+__label__COUNT cho toi hoi trong buc anh nay co tat ca bao nhieu coc uong nuoc
+__label__EXIST dien thoai co xuat hien trong hinh khong
+__label__COUNT xin hoi co may chai nhua trong buc anh nay
+__label__EXIST hay cho biet trong khung hinh co coc hay khong
+__label__LIST ban oi ban dem duoc bao nhieu kieu do dung khac nhau trong anh
+__label__OUT_OF_SCOPE cho toi hoi do sang cua anh co du khong the
+__label__LOCATION hay xac dinh coc nam ben trai o giua hay ben phai anh
+__label__LIST cho minh hoi tong so lop doi tuong khac nhau trong hinh anh la bao nhieu
+__label__EXIST ban co nhin thay ly trong anh khong
+__label__EXIST trong hinh anh co it nhat mot chuot khong
+__label__EXIST co phai trong hinh anh co chai nuoc khong
+__label__LOCATION xin hoi vi tri cua chai trong khung hinh la o dau
+__label__LOCATION xin hoi chuot xuat hien o phia nao trai giua hay phai
+__label__LOCATION ban oi hay cho biet chuot may tinh o vi tri trai giua hay phai
+__label__LOCATION ban oi theo chieu ngang smartphone nam o dau trong hinh
+__label__EXIST xin hoi ban co nhin thay coc trong anh khong
+__label__LIST cho minh hoi ban dem duoc bao nhieu loai doi tuong khac nhau trong buc anh nay
+__label__LOCATION ban oi coc uong nuoc nam gan mep trai o giua hay gan mep phai
+__label__LOCATION cho minh hoi trong canh chai o ben nao
+__label__LOCATION cho toi hoi chai nhua nam o phan ben trai phan giua hay phan ben phai
+__label__LOCATION chai nuoc o vi tri nao theo chieu ngang cua khung hinh
+__label__EXIST ban oi co phai trong hinh anh co binh nuoc khong
+__label__EXIST tren mat ban co hop khong
+__label__OUT_OF_SCOPE cho minh hoi ban co phai la nguoi that khong vay
+__label__EXIST lieu co chai nhua khong
+__label__OUT_OF_SCOPE xin hoi anh sang den tu cua so hay den a
+__label__LOCATION cho toi hoi dien thoai di dong xuat hien o vung nao cua anh
+__label__LOCATION coc nam o phan ben trai phan giua hay phan ben phai
+__label__OUT_OF_SCOPE bay gio la may gio vay
+__label__COUNT ban oi trong khung hinh co tong cong may binh nuoc
+__label__LOCATION cho minh hoi con chuot may tinh nam ve phia nao trong hinh
+__label__LOCATION xin hoi xe do choi o vi tri nao theo chieu ngang cua khung hinh
+__label__COUNT xin hoi trong hinh nay so chuot may tinh la bao nhieu
+__label__EXIST trong anh co it nhat mot hop giay khong
+__label__COUNT ban thay bao nhieu xe do choi trong hinh anh
+__label__EXIST ban co thay cai hop trong anh khong
+__label__OUT_OF_SCOPE cai thia nam o dau trong buc anh
+__label__LOCATION cho toi hoi coc uong nuoc nam ve phia nao trong buc anh
+__label__COUNT cho minh hoi hay dem va cho biet so xe oto do choi tren mat ban
+__label__LOCATION hay xac dinh hop giay nam ben trai o giua hay ben phai anh
+__label__LIST co bao nhieu nhom do dung rieng biet trong canh
+__label__LOCATION vi tri cua binh nuoc trong hinh anh la o dau
+__label__OUT_OF_SCOPE cho minh hoi ban co the hat mot bai hat khong a
+__label__EXIST tren mat ban co cai hop nao khong
+__label__LIST ban oi trong anh co tat ca bao nhieu chung loai vat the
+__label__EXIST ban oi trong buc anh co hien dien dien thoai khong
+__label__LIST co bao nhieu chung loai do dung khac nhau trong anh
+__label__LIST co bao nhieu kieu doi tuong khac nhau tren mat ban
+__label__LOCATION ban oi theo chieu ngang chuot may tinh nam o dau trong khung hinh
+__label__LIST cho minh hoi tinh so lop do dung khac nhau co trong hinh anh
+__label__COUNT cho toi hoi hay dem so cuon sach xuat hien trong hinh
+__label__COUNT cho toi hoi co duoc bao nhieu chai nhua trong khung hinh
+__label__OUT_OF_SCOPE do vat nao nang nhat tren ban a
+__label__LOCATION cho toi hoi cho biet hop giay o ben trai giua hay ben phai
+__label__LOCATION binh nuoc nam ve phia nao trong hinh anh
+__label__LOCATION theo chieu ngang smartphone nam o dau trong buc anh
+__label__LOCATION xin hoi hay chi ra xe oto do choi nam ben trai chinh giua hay ben phai
+__label__LIST co bao nhieu loai vat the rieng biet
+__label__OUT_OF_SCOPE cho minh hoi cai thuoc ke nam o dau trong canh
+__label__COUNT cho toi hoi co tat ca may tach trong canh
+__label__OUT_OF_SCOPE ban oi chai nuoc nay con han su dung khong the
+__label__LIST cho toi hoi tinh so kieu do vat khac nhau co trong khung hinh
+__label__OUT_OF_SCOPE co bao nhieu cay nen tren mat ban
+__label__LOCATION vi tri chai nhua so voi khung hinh la trai giua hay phai
+__label__LOCATION xac dinh xem o to do choi o ben trai giua hay phai cua canh
+__label__LOCATION xin hoi hay xac dinh dien thoai di dong nam ben trai o giua hay ben phai anh
+__label__COUNT trong buc anh co tong cong may cuon sach
+__label__EXIST ban oi trong canh nay co chuot may tinh khong
+__label__OUT_OF_SCOPE xin hoi hay dem so laptop xuat hien trong khung hinh
+__label__OUT_OF_SCOPE ban oi gia vang hom nay la bao nhieu the
+__label__EXIST trong anh co chua chai nuoc khong
+__label__COUNT dem xem trong canh co bao nhieu coc
+__label__LIST xin hoi co tat ca may loai do vat khac nhau trong canh
+__label__COUNT xin hoi ban thay bao nhieu hop giay trong khung hinh
+__label__LOCATION ban oi cai hop nam ve phia nao trong buc anh
+__label__EXIST xin hoi tim xem trong hinh co xe do choi khong
+__label__LIST ban oi xin cho biet so nhom do dung trong buc anh nay
+__label__COUNT cho toi hoi ban co the dem so tach trong hinh khong
+__label__LOCATION trong khung hinh con chuot may tinh nam o phan nao trai giua hay phai
+__label__COUNT xin hoi co duoc bao nhieu chai nuoc tren ban
+__label__LOCATION cho minh hoi dien thoai di dong o giua buc anh hay o hai ben
+__label__COUNT ban oi dem so luong cuon sach co trong hinh
+__label__LIST cho toi hoi trong anh co bao nhieu lop do dung khac nhau
+__label__LIST hay liet ke so chung loai mon do khac nhau tren ban
+__label__COUNT cho minh hoi co tat ca may con chuot may tinh trong anh
+__label__EXIST co cuon sach nao trong khung hinh khong
+__label__OUT_OF_SCOPE xin hoi co bao nhieu qua chuoi trong anh
+__label__LOCATION ban oi ban thay cuon sach o phia nao cua hinh
+__label__EXIST ban co thay sach trong hinh anh khong
+__label__COUNT cho minh hoi trong canh co bao nhieu cuon sach tat ca
+__label__OUT_OF_SCOPE cho toi hoi trong canh nay co cai mu nao khong
+__label__COUNT cho toi hoi dem giup minh so chuot trong buc anh nay
+__label__COUNT xin hoi trong buc anh nay so chai nhua la bao nhieu
+__label__OUT_OF_SCOPE ban co phai la nguoi that khong nhi
+__label__EXIST cho toi hoi trong buc anh nay co xe oto do choi nao khong
+__label__OUT_OF_SCOPE trong hinh co cai thia nao khong
+__label__OUT_OF_SCOPE ban co biet buc anh co bi mo khong
+__label__LOCATION hop giay nam ben trai hay ben phai hay o giua canh
+__label__EXIST cho minh hoi co phai trong hinh co oto do choi khong
+__label__OUT_OF_SCOPE co cuon giay ve sinh trong anh khong
+__label__LOCATION hay xac dinh dien thoai di dong nam ben trai o giua hay ben phai anh
+__label__COUNT cho toi hoi co bao nhieu chuot may tinh
+__label__LIST so kieu vat the khac nhau trong khung hinh la bao nhieu
+__label__COUNT ban oi dem so luong binh nuoc co trong buc anh
+__label__LIST ban oi so chung loai doi tuong khac nhau trong hinh anh la bao nhieu
+__label__LOCATION cho minh hoi chuot may tinh o vi tri nao theo chieu ngang cua buc anh
+__label__OUT_OF_SCOPE cho toi hoi ty so tran bong da toi qua the nao
+__label__LOCATION cho minh hoi xac dinh xem oto do choi o ben trai giua hay phai cua buc anh
+__label__LIST cho minh hoi trong hinh co tong cong may kieu doi tuong
+__label__EXIST co hop xuat hien tren ban khong
+__label__OUT_OF_SCOPE ban cho minh biet hom nay thoi tiet the nao
+__label__COUNT ban oi co bao nhieu chiec tach trong hinh
+__label__LIST cho toi hoi dem giup minh so nhom doi tuong khac nhau trong khung hinh
+__label__LOCATION ban oi vi tri xe oto do choi so voi khung hinh la trai giua hay phai
+__label__COUNT co may chai nhua trong buc anh nay
+__label__COUNT trong hinh anh co tong cong may chuot
+__label__LIST xin hoi hay liet ke so loai doi tuong khac nhau trong hinh anh
+__label__LIST hay liet ke so lop mon do khac nhau tren ban
+__label__LIST so luong nhom do dung la bao nhieu
+__label__LOCATION vi tri cua hop trong hinh la o dau
+__label__COUNT cho toi hoi tren mat ban co bao nhieu hop
+__label__COUNT dem so luong smartphone co trong khung hinh
+__label__OUT_OF_SCOPE ban cho minh biet xe do choi nay danh cho tre may tuoi nhi
+__label__COUNT ban oi dem xem trong buc anh nay co bao nhieu cuon sach
+__label__EXIST ban co the tim thay tach trong khung hinh khong
+__label__LIST trong hinh co bao nhieu loai doi tuong khac nhau
+__label__EXIST xin hoi co cuon sach xuat hien trong khung hinh khong
+__label__COUNT cho toi hoi co bao nhieu cai hop giay trong anh
+__label__OUT_OF_SCOPE xin hoi co cai ghe trong anh khong
+__label__LIST cho toi hoi tong so kieu do dung khac nhau trong canh la bao nhieu
+__label__OUT_OF_SCOPE cho minh hoi ty so tran bong da toi qua the nao nhi
+__label__OUT_OF_SCOPE dong ho nam o dau trong hinh
+__label__LOCATION ban oi chuot nam gan mep trai o giua hay gan mep phai
+__label__COUNT trong canh nay co bao nhieu dien thoai di dong
+__label__LOCATION cho minh hoi sach nam gan mep trai o giua hay gan mep phai
+__label__OUT_OF_SCOPE ban co the ke mot cau chuyen cuoi khong the
+__label__LIST ban oi hay liet ke so lop do vat khac nhau trong hinh
+__label__LOCATION o to do choi duoc dat o ben trai o giua hay ben phai trong anh
+__label__EXIST cho minh hoi co phai trong hinh anh co con chuot may tinh khong
+__label__OUT_OF_SCOPE co binh hoa trong anh khong
+__label__EXIST cho minh hoi co nhin thay chai nao trong khung hinh khong
+__label__LOCATION xin hoi cuon sach xuat hien o phia nao trai giua hay phai
+__label__COUNT bao nhieu cai hop dang co mat trong khung hinh
+__label__OUT_OF_SCOPE cho toi hoi co cuon giay ve sinh trong anh khong
+__label__LOCATION cho toi hoi phan nao cua hinh co xe oto do choi trai giua hay phai
+__label__LOCATION trong buc anh smartphone o ben nao
+__label__COUNT cho toi hoi co bao nhieu con chuot may tinh tren mat ban
+__label__EXIST cho minh hoi trong buc anh nay co chiec ly nao khong
+__label__OUT_OF_SCOPE ban co biet ban co the ke mot cau chuyen cuoi khong nhi
+__label__OUT_OF_SCOPE xin hoi den ban nam o dau trong khung hinh
+__label__COUNT co may binh nuoc tren mat ban
+__label__OUT_OF_SCOPE xin hoi co den ban trong anh khong
+__label__LOCATION xin hoi tach duoc dat o ben trai o giua hay ben phai trong hinh
+__label__LIST xin cho biet so loai do dung trong khung hinh
+__label__LIST tinh so nhom vat the khac nhau co trong anh
+__label__OUT_OF_SCOPE cho toi hoi cuon sach nay noi ve chu de gi ban
+__label__OUT_OF_SCOPE cho toi hoi den ban nam o dau trong khung hinh
+__label__OUT_OF_SCOPE ban co biet ban co the ke mot cau chuyen cuoi khong a
+__label__COUNT dem xem trong hinh anh co bao nhieu xe do choi
+__label__OUT_OF_SCOPE cho toi hoi xe do choi nay danh cho tre may tuoi
+__label__LIST co bao nhieu nhom do vat khong trung nhau trong khung hinh
+__label__LOCATION cho minh hoi o to do choi nam ben trai hay ben phai hay o giua anh
+__label__LOCATION thung giay nam ben trai hay ben phai hay o giua khung hinh
+__label__LIST cho toi hoi hay liet ke so chung loai do vat khac nhau trong hinh
+__label__LIST xin cho biet so chung loai doi tuong trong hinh
+__label__LIST cho toi hoi tren ban co tong cong may kieu do dung
+__label__LOCATION chai nhua o vi tri nao theo chieu ngang cua hinh
+__label__LIST co bao nhieu loai do dung khac nhau tren ban
+__label__OUT_OF_SCOPE ban oi ai da chup buc anh nay the
+__label__EXIST co phai trong anh co dien thoai khong
+__label__LOCATION hay cho biet vi tri ngang cua chuot trong anh
+__label__EXIST ban co phat hien tach trong buc anh khong
+__label__EXIST co ton tai quyen sach trong khung hinh khong
+__label__OUT_OF_SCOPE cho minh hoi ban ten la gi vay
+__label__OUT_OF_SCOPE ban cho minh biet ai da chup buc anh nay ban
+__label__LIST ban oi co tat ca may lop do vat khac nhau trong buc anh
+__label__COUNT co tat ca may coc uong nuoc trong hinh anh
+__label__LIST hay dem xem co bao nhieu loai vat the trong buc anh
+__label__LOCATION cho toi hoi vi tri cua cuon sach trong canh la o dau
+__label__LIST trong buc anh co tat ca bao nhieu kieu mon do
+__label__COUNT ban oi co tat ca may chai nhua trong buc anh
+__label__LOCATION theo chieu ngang chai nuoc nam o dau trong canh
+__label__LIST so lop vat the khac nhau trong canh la bao nhieu
+__label__LIST co tat ca may chung loai doi tuong khac nhau trong canh
+__label__LOCATION chuot may tinh nam gan mep trai o giua hay gan mep phai
+__label__LIST cho toi hoi hay cho biet co bao nhieu kieu vat the trong buc anh nay
+__label__LOCATION cho minh hoi cuon sach o giua hinh anh hay o hai ben
+__label__COUNT xin hoi trong hinh anh nay so xe do choi la bao nhieu
+__label__EXIST trong anh co sach nao khong
+__label__EXIST co coc uong nuoc trong buc anh nay khong vay
+__label__OUT_OF_SCOPE can phong nay o tang may
+__label__LIST tren ban co bao nhieu kieu mon do khac nhau
+__label__COUNT chuot tren mat ban co bao nhieu cai
+__label__EXIST trong buc anh nay co chai nuoc khong
+__label__COUNT ban oi bao nhieu coc dang co mat trong anh
+__label__OUT_OF_SCOPE trong khung hinh co thay con meo khong
+__label__COUNT trong anh co tat ca bao nhieu tach
+__label__COUNT co tat ca may hop giay trong khung hinh
+__label__OUT_OF_SCOPE cho toi hoi san nha lat gach hay go ban
+__label__LIST trong canh nay co tong cong may lop do vat
+__label__EXIST dien thoai co xuat hien trong khung hinh khong
+__label__EXIST lieu trong hinh anh co chuot may tinh khong
+__label__OUT_OF_SCOPE ban cho minh biet cuon sach nay noi ve chu de gi vay
+__label__EXIST tim xem trong hinh anh co smartphone khong
+__label__EXIST hay cho biet trong hinh co thung giay hay khong
+__label__LOCATION ban oi cho biet coc o ben trai giua hay ben phai
+__label__OUT_OF_SCOPE co nen mua them mot chiec coc khong nhi
+__label__EXIST lieu co xe oto do choi khong
+__label__LIST xin hoi xin cho biet so chung loai mon do trong buc anh nay
+__label__LIST ban oi trong buc anh nay co tong cong may nhom do vat
+__label__OUT_OF_SCOPE canh nay chup vao ban ngay hay ban dem a
+__label__COUNT ban oi co duoc bao nhieu ly tren ban
+__label__LOCATION trong anh chuot nam o phan nao trai giua hay phai
+__label__LOCATION con chuot may tinh o giua canh hay o hai ben
+__label__LIST trong canh nay co bao nhieu lop vat the khac nhau
+__label__COUNT trong anh co bao nhieu smartphone
+__label__LOCATION chuot may tinh o vi tri nao theo chieu ngang cua hinh
+__label__LIST cho toi hoi tren ban co tong cong may lop do vat
+__label__EXIST co chai nuoc trong anh khong vay
+__label__LOCATION xin hoi trong anh binh nuoc nam o phan nao trai giua hay phai
+__label__COUNT xin hoi trong canh co bao nhieu chuot tat ca
+__label__EXIST cho minh hoi tren ban co xuat hien thung giay khong
+__label__COUNT co duoc bao nhieu sach trong buc anh nay
+__label__EXIST trong hinh nay co hop khong
+__label__LIST co bao nhieu lop mon do khac nhau trong buc anh nay
+__label__LIST ban oi tinh so lop doi tuong khac nhau co trong hinh anh
+__label__EXIST ban co the tim thay binh nuoc trong hinh anh khong
+__label__LIST cho minh hoi trong buc anh nay co bao nhieu loai do vat khac nhau
+__label__LOCATION ban oi hop o giua canh hay o hai ben
+__label__LIST ban oi hay dem xem co bao nhieu chung loai mon do trong canh
+__label__LIST hay cho biet co bao nhieu kieu doi tuong trong canh
+__label__OUT_OF_SCOPE xin hoi ai la chu nhan cua chiec ban nay ban
+__label__LIST cho minh hoi co bao nhieu nhom do dung duoc nhan dien trong khung hinh
+__label__COUNT cho toi hoi trong hinh anh co tong cong may dien thoai di dong
+__label__COUNT cho minh hoi co duoc bao nhieu sach trong hinh anh
+__label__LIST trong canh co may chung loai doi tuong khac nhau
+__label__LIST ban oi hay liet ke so chung loai do dung khac nhau trong hinh anh
+__label__LOCATION xac dinh xem con chuot may tinh o ben trai giua hay phai cua anh
+__label__EXIST tren mat ban co chai nhua nao khong
+__label__COUNT cho toi hoi ban co the dem so hop tren ban khong
+__label__COUNT hay dem so chai xuat hien trong hinh
+__label__EXIST cho toi hoi trong khung hinh co coc uong nuoc hay khong
+__label__OUT_OF_SCOPE xin hoi co cai remote trong anh khong
+__label__EXIST tren ban co dien thoai di dong nao khong
+__label__COUNT cho minh hoi co tong cong bao nhieu chuot xuat hien trong buc anh
+__label__COUNT cho toi hoi dem so luong oto do choi co trong hinh anh
+__label__OUT_OF_SCOPE ai da de cac do vat len ban nhi
+__label__LIST cho minh hoi co tat ca may kieu vat the khac nhau trong canh
+__label__EXIST tren mat ban co xuat hien coc khong
+__label__LIST co bao nhieu kieu mon do khong trung nhau trong hinh anh
+__label__LOCATION trong canh chai o ben nao
+__label__OUT_OF_SCOPE doi giay nam o dau trong canh
+__label__LIST cho toi hoi so loai doi tuong khac nhau trong khung hinh la bao nhieu
+__label__EXIST co sach tren mat ban khong vay
+__label__EXIST ban co nhin thay sach trong anh khong
+__label__LIST hay dem xem co bao nhieu loai do vat trong hinh
+__label__LOCATION xin hoi cuon sach duoc dat o ben trai o giua hay ben phai
+__label__LOCATION cho minh hoi chuot may tinh duoc dat o ben trai o giua hay ben phai trong buc anh nay
+__label__LIST trong buc anh co bao nhieu nhom mon do duoc gan nhan
+__label__OUT_OF_SCOPE ngoai troi co dang mua khong a
+__label__COUNT xin hoi co tat ca may chai trong hinh anh
+__label__COUNT trong anh co tong cong may thung giay
+__label__OUT_OF_SCOPE cuc tay nam o dau trong hinh
+__label__LOCATION xin hoi trong buc anh ly o ben nao
+__label__EXIST cho toi hoi ban co the tim thay cuon sach trong canh khong
+__label__EXIST ban oi ban co phat hien dien thoai di dong trong buc anh khong
+__label__EXIST co cai xe do choi nao xuat hien trong anh khong
+__label__OUT_OF_SCOPE trong hinh anh co thay cai o khong
+__label__EXIST co nhin thay chai nuoc nao trong anh khong
+__label__LIST so luong nhom vat the trong buc anh nay la bao nhieu
+__label__EXIST cho minh hoi co cai hop tren mat ban khong vay
+__label__LIST co bao nhieu loai vat the khong trung nhau trong canh
+__label__OUT_OF_SCOPE hay dem so con chim xuat hien trong anh
+__label__LIST co bao nhieu chung loai doi tuong duoc nhan dien trong hinh
+__label__COUNT ban oi trong hinh co tat ca bao nhieu cai hop
+__label__LIST ban oi trong anh co bao nhieu kieu mon do khac nhau
+__label__COUNT dem xem tren ban co bao nhieu chuot
+__label__COUNT hay dem va cho biet so ly tren mat ban
+__label__OUT_OF_SCOPE cho toi hoi trong canh co thay cai dia khong
+__label__COUNT cho minh hoi co may chai nuoc tren ban
+__label__EXIST co phai tren ban co ly khong
+__label__LIST trong buc anh nay co tong cong may chung loai do dung
+__label__LIST tinh so loai doi tuong khac nhau co trong hinh
+__label__LIST ban dem duoc bao nhieu kieu do dung khac nhau tren ban
+__label__EXIST ban oi trong buc anh nay co chiec dien thoai di dong nao khong
+__label__LIST dem giup minh so lop do vat khac nhau trong hinh
+__label__COUNT dem giup minh so xe oto do choi tren ban
+__label__EXIST trong khung hinh co hien dien cai hop khong
+__label__OUT_OF_SCOPE ban oi dien thoai co dang bat man hinh khong nhi
+__label__COUNT cho minh hoi co bao nhieu cai xe oto do choi trong khung hinh
+__label__EXIST ban oi dien thoai di dong co duoc dat trong khung hinh khong
+__label__LIST tren mat ban xuat hien bao nhieu loai do vat
+__label__OUT_OF_SCOPE hay dem so chau cay xuat hien trong buc anh
+__label__LOCATION xin hoi vi tri coc uong nuoc so voi khung hinh la trai giua hay phai
+__label__LOCATION cho minh hoi hay cho biet oto do choi o vi tri trai giua hay phai
+__label__EXIST cho minh hoi trong hinh co dien thoai hay khong
+__label__LIST so kieu do vat khac nhau trong buc anh nay la bao nhieu
+__label__LIST xin hoi co bao nhieu lop do dung khac nhau trong khung hinh
+__label__COUNT cho minh hoi trong hinh anh co tong cong may dien thoai di dong
+__label__LOCATION ban thay dien thoai di dong o phia nao cua hinh anh
+__label__LOCATION xe do choi nam ben trai hay ben phai hay o giua khung hinh
+__label__LOCATION cho minh hoi cuon sach nam gan mep trai o giua hay gan mep phai
+__label__COUNT trong hinh nay so xe do choi la bao nhieu
+__label__LOCATION xin hoi ban thay ly o phia nao cua khung hinh
+__label__OUT_OF_SCOPE thuong hieu cua dien thoai la gi a
+__label__LIST co bao nhieu chung loai doi tuong rieng biet trong canh
+__label__EXIST trong buc anh co it nhat mot ly khong
+__label__LOCATION quyen sach xuat hien o phia nao trai giua hay phai
+__label__LIST tong so lop do dung khac nhau trong hinh la bao nhieu
+__label__LIST xin hoi so lop do dung khac nhau tren ban la bao nhieu
+__label__OUT_OF_SCOPE xin hoi tren ban co ban phim nao khong
+__label__LOCATION ban oi theo chieu ngang binh nuoc nam o dau trong hinh anh
+__label__OUT_OF_SCOPE mat ban co bi tray xuoc khong
