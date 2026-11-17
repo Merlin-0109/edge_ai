@@ -1,0 +1,7 @@
+{
+  "completed": true,
+  "weights": "yolo26m.pt",
+  "imgsz": 960,
+  "best_map50": 0.99493,
+  "best": "/home/hvl-357/edge_ai/checkpoints/teacher_yolo26m_full/weights/best.pt"
+}
