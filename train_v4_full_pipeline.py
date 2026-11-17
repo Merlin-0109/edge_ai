@@ -754,6 +754,32 @@ def count_deploy_params(model):
     return sum(p.numel() for p in to_deploy(model).parameters())
 
 
+def build_deploy_model():
+    """Empty StudentV4 in its deployable (fused) form: every conv is a plain Conv2d with bias, no BatchNorm and no
+    re-param branches. Nothing is computed here; the weights come from checkpoints/student_v4/deploy.pt."""
+    model = StudentV4().eval()
+
+    def plain(conv):
+        return nn.Conv2d(conv.in_channels, conv.out_channels, conv.kernel_size, conv.stride, conv.padding,
+                         conv.dilation, conv.groups, bias=True)
+
+    def visit(module):
+        for name, child in list(module.named_children()):
+            if isinstance(child, ConvBNAct):
+                child.conv = plain(child.conv); child.bn = nn.Identity()
+            elif isinstance(child, DSBlock):
+                child.dw = plain(child.dw.dw5)                       # RepDW -> one depthwise 5x5 with bias
+                child.pw = plain(child.pw); child.pw_bn = nn.Identity()
+                if isinstance(child.skip, nn.Sequential):
+                    child.skip = plain(child.skip[0])
+            elif isinstance(child, RepDW):
+                setattr(module, name, plain(child.dw5))
+            else:
+                visit(child)
+    visit(model)
+    return model
+
+
 def expected_ltrb(raw, stride):
     """Distance logits -> expected ltrb in input pixels. raw: [B, OUT_CH, H, W]."""
     b, _, h, w = raw.shape
@@ -774,7 +800,10 @@ print(f"StudentV4 params: train-time={_train_params:,}  deployable(fused)={_depl
 print(f"fused-vs-unfused max abs diff: {_max_diff:.2e}; grids @640x480: {[tuple(o.shape[-2:]) for o in _a]}")
 assert _deploy_params <= PARAM_LIMIT, "deployable parameter count exceeds the competition limit"
 assert _max_diff < 1e-3
-del _student, _x, _a, _b
+_skeleton = build_deploy_model()
+assert {k: v.shape for k, v in _skeleton.state_dict().items()} == {k: v.shape for k, v in to_deploy(_student).state_dict().items()}
+print(f"deploy skeleton (for deploy.pt): {sum(p.numel() for p in _skeleton.parameters()):,} params, same layout as the fused model")
+del _student, _x, _a, _b, _skeleton
 
 
 # ============================================================
@@ -1431,11 +1460,15 @@ student_checkpoint = train_student_v4(teacher_checkpoints)
 intent_state = load_ckpt(INTENT_DIR / "best.pt")
 intent_model = IntentTextCNN().to(DEVICE); intent_model.load_state_dict(intent_state["model"]); intent_model.eval()
 
-student_state = load_ckpt(STUDENT_DIR / "best.pt")
-student_model = StudentV4().to(DEVICE); student_model.load_state_dict(student_state["model"]); student_model.eval()
-student_deploy = to_deploy(student_model)
-print(f"intent params={count_params(intent_model):,}  student deployable params={sum(p.numel() for p in student_deploy.parameters()):,}")
-print(f"student best epoch={student_state['epoch']} val mAP50={student_state['val_map50']:.5f}")
+# Detector: load the already-fused deployable checkpoint directly (no best.pt, no fusing at export time)
+student_ckpt = load_ckpt(STUDENT_DIR / "deploy.pt")
+student_deploy = build_deploy_model().to(DEVICE)
+student_deploy.load_state_dict(student_ckpt["model"], strict=True); student_deploy.eval()
+_intent_params = count_params(intent_model)
+_deploy_params = sum(p.numel() for p in student_deploy.parameters()) + sum(b.numel() for b in student_deploy.buffers())
+print(f"intent params={_intent_params:,}  student params (deploy.pt)={_deploy_params:,}  limit < 200,000")
+print(f"student deploy.pt: epoch={student_ckpt['epoch']} val mAP50={student_ckpt['val_map50']:.5f}")
+assert _intent_params < 200_000 and _deploy_params < 200_000 and _deploy_params == student_ckpt["deploy_params"]
 
 _, _val_paths = detector_train_val_paths()
 _val_loader = DataLoader(DetDataset(_val_paths, augment=False), batch_size=8, shuffle=False, num_workers=0, collate_fn=det_collate)

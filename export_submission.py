@@ -35,8 +35,7 @@ exec(''.join(nb['cells'][9]['source']), g)
 load_ckpt = g["load_ckpt"]
 count_params = g["count_params"]
 IntentTextCNN = g["IntentTextCNN"]
-StudentV4 = g["StudentV4"]
-to_deploy = g["to_deploy"]
+build_deploy_model = g["build_deploy_model"]
 detector_train_val_paths = g["detector_train_val_paths"]
 DataLoader = g["DataLoader"]
 DetDataset = g["DetDataset"]
@@ -55,27 +54,18 @@ intent_model = IntentTextCNN().to(DEVICE)
 intent_model.load_state_dict(intent_state["model"])
 intent_model.eval()
 
-student_state = load_ckpt(STUDENT_DIR / "best.pt")
-student_model = StudentV4().to(DEVICE)
-student_model.load_state_dict(student_state["model"])
-student_model.eval()
-student_deploy = to_deploy(student_model)
+# Detector: load the already-fused deployable checkpoint directly (no best.pt, no fusing at export time)
+student_ckpt = load_ckpt(STUDENT_DIR / "deploy.pt")
+student_deploy = build_deploy_model().to(DEVICE)
+student_deploy.load_state_dict(student_ckpt["model"], strict=True)
+student_deploy.eval()
 
-deploy_params = sum(p.numel() for p in student_deploy.parameters())
-print(f"Intent params: {count_params(intent_model):,}")
-print(f"Student deployable params: {deploy_params:,} (limit <= 200,000)")
-print(f"Student best epoch: {student_state['epoch']}, val mAP50: {student_state['val_map50']:.5f}")
-
-# Save deploy.pt if not exists or update
-deploy_pt_path = STUDENT_DIR / "deploy.pt"
-torch.save({
-    "model": student_deploy.state_dict(),
-    "deploy_params": deploy_params,
-    "architecture": "StudentV4-deploy",
-    "epoch": student_state["epoch"],
-    "val_map50": student_state["val_map50"]
-}, deploy_pt_path)
-print(f"Saved deploy model: {deploy_pt_path}")
+intent_params = count_params(intent_model)
+deploy_params = sum(p.numel() for p in student_deploy.parameters()) + sum(b.numel() for b in student_deploy.buffers())
+print(f"Intent params: {intent_params:,} (limit < 200,000)")
+print(f"Student params (deploy.pt): {deploy_params:,} (limit < 200,000)")
+print(f"Student deploy.pt: epoch {student_ckpt['epoch']}, val mAP50: {student_ckpt['val_map50']:.5f}")
+assert intent_params < 200_000 and deploy_params < 200_000 and deploy_params == student_ckpt["deploy_params"]
 
 print("Running validation evaluation...")
 _, _val_paths = detector_train_val_paths()
